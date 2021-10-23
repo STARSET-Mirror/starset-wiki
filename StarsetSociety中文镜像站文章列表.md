@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2021-09-11T10:03:08.886Z
+date: 2021-10-23T06:46:30.228Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -20,7 +20,7 @@ dateCreated: 2021-08-21T05:26:41.405Z
 <font color=skyblue>"The Starset Society is always accepting new members to assist us in our mission."
 “Starset Soceity欢迎任何新成员加入和帮助我们完成这项使命。”</font>
 
-Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从早到晚</u>排列，但由于部分文章尚未进行内容翻译，因此这些文章被单独放置在一个列表中。
+Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>排列，并按照年份分为不同的目录，<font color=blue><u>蓝色的链接</u></font>代表该文章已翻译，<font color=grey><u>灰色的链接</u></font>代表该文章尚未进行翻译。
 
 网址：https://thestarsetsociety.cn/starset-society-mission/
 ## 人类 - Man
@@ -29,15 +29,8 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从早到晚</u>
 科技是人类进化和生存的新动力。</font>
 
 <details>
-  <summary>已翻译的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-  
-</details>
-<details>
-  <summary>未翻译的文章</summary>
-    <ul>
+  <summary>2019年的文章</summary>
+  	<ul>
       <li><a href="https://thestarsetsociety.cn/give-the-robots-electronic-tongues/"><font color=grey>给机器人安上机械舌头 - Give the robots electronic tongues (2018.5.29)</font></a></li>
       <li><a href="https://thestarsetsociety.cn/new-imbed-pill-can-send-signs-of-disease-to-your-smartphone/"><font color=grey>新型IMBED药丸能够向你的智能手机发送病征 - New IMBED pill can send signs of disease to your smartphone (2018.5.29)</font></a></li>
       <li><a href="https://thestarsetsociety.cn/sex-robots-unclear-if-health-benefits-for-users/"><font color=grey>性机器人：尚不明确是否对用户健康有益 - Sex Robots: Unclear if health benefits for users (2018.6.6)</font></a></li>
@@ -73,20 +66,41 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从早到晚</u>
     </ul>
 </details>
 
-## 机器 - Machine
-![machine_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/Machine-2-1-scaled-e1630746444668.jpg)
-<font color=violet>The machine promises to drastically increase our output while reducing our workload — but will it replace us all together? Or even destroy us?
-机器必然会大幅度增加我们的产量，又同时减少我们的工作量；但它们会取代人类吗？更进一步，它们会毁灭我们吗？</font>
-
 <details>
-  <summary>已翻译的文章</summary>
+  <summary>2020年的文章</summary>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
 </details>
 
 <details>
-  <summary>未翻译的文章</summary>
+  <summary>2021年的文章</summary>
+  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
+  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
+  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
+</details>
+
+## 机器 - Machine
+![machine_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/Machine-2-1-scaled-e1630746444668.jpg)
+<font color=violet>The machine promises to drastically increase our output while reducing our workload — but will it replace us all together? Or even destroy us?
+机器必然会大幅度增加我们的产量，又同时减少我们的工作量；但它们会取代人类吗？更进一步，它们会毁灭我们吗？</font>
+
+<details>
+  <summary>2019年的文章</summary>
+  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
+  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
+  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
+</details>
+
+<details>
+  <summary>2020年的文章</summary>
+  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
+  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
+  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
+</details>
+
+<details>
+  <summary>2021年的文章</summary>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
@@ -98,14 +112,21 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从早到晚</u>
 我们目前只称呼一个星球为家园。我们是否是它被改善或被毁灭的原因？</font>
 
 <details>
-  <summary>已翻译的文章</summary>
+  <summary>2019年的文章</summary>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
 </details>
 
 <details>
-  <summary>未翻译的文章</summary>
+  <summary>2020年的文章</summary>
+  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
+  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
+  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
+</details>
+
+<details>
+  <summary>2021年的文章</summary>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
@@ -117,14 +138,21 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从早到晚</u>
 最后的研究方向——也是脆弱的人类要长久生存唯一有效的选择。</font>
 
 <details>
-  <summary>已翻译的文章</summary>
+  <summary>2019年的文章</summary>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
 </details>
 
 <details>
-  <summary>未翻译的文章</summary>
+  <summary>2020年的文章</summary>
+  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
+  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
+  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
+</details>
+
+<details>
+  <summary>2021年的文章</summary>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
@@ -135,7 +163,6 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从早到晚</u>
 ![future_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/futuristic-4544119_960_720-1-e1630746798464.jpg)
 <font color="blue">The Starset Society examines the near-future implications of technology and its theoretical impact on the public. TSS will examine the current state of these rapidly developing technologies and ponder the FUTURES that may unfold as a result.
 TSS将审视未来科技的作用及其对公众的影响——这些技术的现状以及它们可能带来的未来。</font>
-<p>未来系列的所有文章已完成翻译，详情请查看下方文章列表。</p>
 
 <details>
   <summary>文章列表</summary>
@@ -174,6 +201,12 @@ TSS将审视未来科技的作用及其对公众的影响——这些技术的�
       <td>内容更新、页面优化</td>
       <td>未来系列的文章完成搬运，添加了专栏图片</td>
     </tr>
+    <tr>
+      <td>2021/10/23</td>
+      <td>downplay水晶歌捧读者Bearler</td>
+      <td>内容更新、页面优化</td>
+      <td>优化了页面排版，便于日后更新修改</td>
+    </tr>
   </table>
   <!--更新类型可以分为代码修复、内容更新和页面优化，不过只要人看得懂也可以随便写-->
   <!--备注可以用来描述更新的内容，不想描述可以打个“/”，也可以用来整活[？]-->
@@ -183,24 +216,21 @@ TSS将审视未来科技的作用及其对公众的影响——这些技术的�
   <summary>文章翻译与搬运进度查表</summary>
   <font color="red">页面编辑负责人应及时与TSS文章翻译工跟进文章的翻译进度，以及时更新文章列表；翻译工也可直接修改列表内容，但同时也应当修改查表内容以便日后核对进度。</font>
   <br/><b>人类</b>
-  <br/>已翻译文章搬运进度：[未开始]
-  <br/>未翻译文章搬运进度：至2019/6/3文章
+  <br/>文章搬运进度：至2019/6/3文章
   <br/>翻译进度：最新文章至2020/1/3文章
   <br/><b>机器</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>未翻译文章搬运进度：[未开始]
   <br/>翻译进度：最新文章至2019/12/4文章
   <br/><b>地球</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>未翻译文章搬运进度：[未开始]
   <br/>翻译进度：最新文章至2020/1/4文章
   <br/><b>太空</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>未翻译文章搬运进度：[未开始]
   <br/>翻译进度：最新文章至2019/12/4文章
   <br/><b>未来</b>
   <br/>文章搬运进度：[已完成]
   <br/>翻译进度：全部翻译完成
+  <br/><font size=2 color=grey>（最后核查日期：2021年10月23日）</font>
 </details>
 
 <details>
