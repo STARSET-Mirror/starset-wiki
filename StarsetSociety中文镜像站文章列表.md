@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2021-10-23T06:46:30.228Z
+date: 2021-10-23T07:02:51.620Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -31,6 +31,7 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 <details>
   <summary>2019年的文章</summary>
   	<ul>
+      <TOC>
       <li><a href="https://thestarsetsociety.cn/give-the-robots-electronic-tongues/"><font color=grey>给机器人安上机械舌头 - Give the robots electronic tongues (2018.5.29)</font></a></li>
       <li><a href="https://thestarsetsociety.cn/new-imbed-pill-can-send-signs-of-disease-to-your-smartphone/"><font color=grey>新型IMBED药丸能够向你的智能手机发送病征 - New IMBED pill can send signs of disease to your smartphone (2018.5.29)</font></a></li>
       <li><a href="https://thestarsetsociety.cn/sex-robots-unclear-if-health-benefits-for-users/"><font color=grey>性机器人：尚不明确是否对用户健康有益 - Sex Robots: Unclear if health benefits for users (2018.6.6)</font></a></li>
@@ -217,16 +218,16 @@ TSS将审视未来科技的作用及其对公众的影响——这些技术的�
   <font color="red">页面编辑负责人应及时与TSS文章翻译工跟进文章的翻译进度，以及时更新文章列表；翻译工也可直接修改列表内容，但同时也应当修改查表内容以便日后核对进度。</font>
   <br/><b>人类</b>
   <br/>文章搬运进度：至2019/6/3文章
-  <br/>翻译进度：最新文章至2020/1/3文章
+  <br/>翻译进度：最新文章往前至2020/1/3文章
   <br/><b>机器</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>翻译进度：最新文章至2019/12/4文章
+  <br/>翻译进度：最新文章往前至2019/12/4文章
   <br/><b>地球</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>翻译进度：最新文章至2020/1/4文章
+  <br/>翻译进度：最新文章往前至2020/1/4文章
   <br/><b>太空</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>翻译进度：最新文章至2019/12/4文章
+  <br/>翻译进度：最新文章往前至2019/12/4文章
   <br/><b>未来</b>
   <br/>文章搬运进度：[已完成]
   <br/>翻译进度：全部翻译完成
