@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2021-10-23T08:03:55.099Z
+date: 2021-10-30T04:10:51.500Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -20,7 +20,8 @@ dateCreated: 2021-08-21T05:26:41.405Z
 <font color=skyblue>"The Starset Society is always accepting new members to assist us in our mission."
 “Starset Soceity欢迎任何新成员加入和帮助我们完成这项使命。”</font>
 
-Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>排列，并按照年份分为不同的目录，<font color=blue><u>蓝色的链接</u></font>代表该文章已翻译，<font color=grey><u>灰色的链接</u></font>代表该文章尚未进行翻译。
+Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>排列，并按时间折叠进不同的目录以防止你在阅读过程中被长长的文章列表弄晕
+<font color=blue><u>蓝色的链接</u></font>代表该文章已翻译，<font color=grey><u>灰色的链接</u></font>代表该文章尚未进行翻译。
 
 网址：https://thestarsetsociety.cn/starset-society-mission/
 ## 人类 - Man
@@ -28,14 +29,12 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 <font color=orange>Science and Technology are the new drivers in human evolution and survival.
 科技是人类进化和生存的新动力。</font>
 
-<details>
-  <summary>2018年的文章</summary>
-  我们知道你不想一点开就是满屏的、让人头晕眼花的长串文字，因此我们对这些文章按时间进行了分组折叠。
-  <div class="row">
-  <input id="togList1" type="checkbox">
-  <label for="togList1">
-    <span><font color="blue">【5月至6月 展开】</font></span>
-    <span><font color="blue">【5月至6月 折叠】</font></span>
+<ul>
+  <li><div class="row">
+  <input id="togListMan1" type="checkbox">
+  <label for="togListMan1">
+    <span><font color="blue">【2018.5-2018.6 展开】</font></span>
+    <span><font color="blue">【2018.5-2018.6 折叠】</font></span>
   </label>
   	<div class="list">
    		<ul>
@@ -46,13 +45,13 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
      		<li><a href="https://thestarsetsociety.cn/dna-synthesis-breakthrough-could-lead-to-faster-medical-discoveries/"><font color=grey>DNA合成技术的突破可带来更快的医学发现 - DNA synthesis breakthrough could lead to faster medical discoveries (2018.6.29)</font></a></li>
      	</ul>
 		</div>
-  </div>
+  </div></li>
   
-  <div class="row">
-  <input id="togList2" type="checkbox">
-  <label for="togList2">
-    <span><font color="blue">【7月至9月 展开】</font></span>
-    <span><font color="blue">【7月至9月 折叠】</font></span>
+  <li><div class="row">
+  <input id="togListMan2" type="checkbox">
+  <label for="togListMan2">
+    <span><font color="blue">【2018.7-2018.9 展开】</font></span>
+    <span><font color="blue">【2018.7-2018.9 折叠】</font></span>
   </label>
   	<div class="list">
    		<ul>
@@ -64,13 +63,13 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 	     	<li><a href="https://thestarsetsociety.cn/tss-exclusive-altered-state-the-gene-editing-miracle-of-crispr/"><font color=grey>TSS特别报道：改变现状——CRISPR，基因编辑工程的奇迹 - TSS Exclusive: Altered State – The Gene Editing Miracle of CRISPR (2018.9.4)</font></a></li>
      	</ul>
 		</div>
-  </div>
+  </div></li>
   
-  <div class="row">
-  <input id="togList3" type="checkbox">
-  <label for="togList3">
-    <span><font color="blue">【10月至12月 展开】</font></span>
-    <span><font color="blue">【10月至12月 折叠】</font></span>
+  <li><div class="row">
+  <input id="togListMan3" type="checkbox">
+  <label for="togListMan3">
+    <span><font color="blue">【2018.10-2018.12 展开】</font></span>
+    <span><font color="blue">【2018.10-2018.12 折叠】</font></span>
   </label>
   	<div class="list">
    		<ul>
@@ -80,17 +79,13 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 	     	<li><a href="https://thestarsetsociety.cn/tss-exclusive-ethical-doctor-or-dr-frankenstein-scientist-claims-first-gene-editing-babies-born/"><font color=grey>TSS特别报道：伦理医生还是弗兰肯斯坦：科学家声称第一个基因编辑婴儿已诞生 - TSS EXCLUSIVE: Ethical Doctor or Dr. Frankenstein: Scientist Claims First Gene Editing Babies Born (2018.12.4)</font></a></li>
       </ul>
 		</div>
-  </div>
-</details>
+  </div></li>
 
-<details>
-  <summary>2019年的文章</summary>
-  我们知道你不想一点开就是满屏的、让人头晕眼花的长串文字，因此我们对这些文章按时间进行了分组折叠。
-  <div class="row">
-  <input id="togList4" type="checkbox">
-  <label for="togList4">
-    <span><font color="blue">【1月至3月 展开】</font></span>
-    <span><font color="blue">【1月至3月 折叠】</font></span>
+  <li><div class="row">
+  <input id="togListMan4" type="checkbox">
+  <label for="togListMan4">
+    <span><font color="blue">【2019.1-2019.3 展开】</font></span>
+    <span><font color="blue">【2019.1-2019.3 折叠】</font></span>
   </label>
   	<div class="list">
    		<ul>
@@ -102,13 +97,13 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
       	<li><a href="https://thestarsetsociety.cn/tss-exclusive-neurotechno-playlist-where-is-neuroscience-headed/"><font color=grey>TSS特别报道：神经科学播放列表——神经科学将走向何方？ - TSS EXCLUSIVE: Neurotechno Playlist – Where is Neuroscience headed? (2019.3.24)</font></a></li>
       </ul>
     </div>
-  </div>
+  </div></li>
   
-  <div class="row">
+  <li><div class="row">
   <input id="togList5" type="checkbox">
   <label for="togList5">
-    <span><font color="blue">【4月至6月 展开】</font></span>
-    <span><font color="blue">【4月至6月 折叠】</font></span>
+    <span><font color="blue">【2019.4-2019.6 展开】</font></span>
+    <span><font color="blue">【2019.4-2019.6 折叠】</font></span>
   </label>
   	<div class="list">
    		<ul>
@@ -125,121 +120,32 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 	      <li><a href="https://thestarsetsociety.cn/microscopy-and-vr-illuminate-new-ways-to-prevent-and-treat-disease/"><font color=grey>显微镜检查和VR技术照亮了预防与医治疾病的新道路 - Microscopy And VR Illuminate New Ways To Prevent And Treat Disease (2019.6.3)</font></a></li>
     	</ul>
     </div>
-  </div>
-</details>
-
-<details>
-  <summary>2020年的文章</summary>
+  </div></li>
+<br/>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2021年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
+</ul>
 
 ## 机器 - Machine
 ![machine_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/Machine-2-1-scaled-e1630746444668.jpg)
 <font color=violet>The machine promises to drastically increase our output while reducing our workload — but will it replace us all together? Or even destroy us?
 机器必然会大幅度增加我们的产量，又同时减少我们的工作量；但它们会取代人类吗？更进一步，它们会毁灭我们吗？</font>
 
-<details>
-  <summary>2018年的文章</summary>
+<br/>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2019年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2020年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2021年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-## 地球 - Earth
-![earth_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/Earth-2-1-scaled-e1630746988873.jpg)
-<font color="seablue">We currently call only one planet home. Will we be the cause of its improvement or its ruin?
-我们目前只称呼一个星球为家园。我们是否是它被改善或被毁灭的原因？</font>
-
-<details>
-  <summary>2018年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2019年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2020年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2021年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
 
 ## 太空 - Space
 ![space_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/Space-2-1-scaled-e1630746398632.jpg)
 <font color="grey">The final frontier—and the only true option for redundancy in the survival of a fragile human species.
 最后的研究方向——也是脆弱的人类要长久生存唯一有效的选择。</font>
 
-<details>
-  <summary>2018年的文章</summary>
+<br/>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2019年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2020年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
-
-<details>
-  <summary>2021年的文章</summary>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
-</details>
 
 
 ## 未来 - Future
@@ -247,19 +153,25 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 <font color="blue">The Starset Society examines the near-future implications of technology and its theoretical impact on the public. TSS will examine the current state of these rapidly developing technologies and ponder the FUTURES that may unfold as a result.
 TSS将审视未来科技的作用及其对公众的影响——这些技术的现状以及它们可能带来的未来。</font>
 
-<details>
-  <summary>文章列表</summary>
-  <ul>
-    <li><a href="https://thestarsetsociety.cn/future-series-celestial-body/">未来系列：天体开采：为何下一代矿工会所见星辰 - FUTURES: Asteroid Mining – Why the next generation of miners will have their eyes on the stars (2020.8.27)</a></li>
-    <li><a href="https://thestarsetsociety.cn/tss-future-series-colonizing/">未来系列：殖民火星，建立新世界 - FUTURES – Welcome To ‘New World’, Earth’s Colony On Planet Mars (2020.11.1)</a></li>
-    <li><a href="https://thestarsetsociety.cn/tss-future-series-evolution/">未来系列：转基因生物的演变 - TSS FUTURES: The Changing State of GMOs (2020.12.1)</a></li>
-    <li><a href="https://thestarsetsociety.cn/future-series-brain-computer/">未来系列：脑机接口与神经接口 - FUTURES: Brain-Machine Interfaces and the Neural Interface Project (2021.1.16)</a></li>
-    <li><a href="https://thestarsetsociety.cn/tss-future-series-easing/">未来系列:缓和网络言论-悬在真相和公地悲剧之间的钢丝 - FUTURES: Moderating Online Speech – The tightrope between a Ministry of Truth and tragedy of the commons (2021.8.11)</a></li>
-    <li><a href="https://thestarsetsociety.cn/futures-breaking-the-light/">未来系列：打破光的障碍——时空波如何推动曲速器从虚构走向现实 - FUTURES: Breaking The Light Barrier – How space-time waves are propelling warp drives from fiction to fact (2021.8.13)</a></li>
-    <li><a href="https://thestarsetsociety.cn/future-series-refrigeration/">未来系列：冷冻技术——重获新生 - FUTURES: Cryonics – Coming Back To Life (2021.8.17)</a></li>
-    <li><a href="https://thestarsetsociety.cn/future-series-social/">未来系列：社交怪物与其制造者：重塑社交媒体，促进人类更好发展 - FUTURES – Social Monsters and their Makers: Reimagining social media to nudge our better angels (2021.8.24)</a></li>
-  </ul>
-</details>
+<div class="row">
+<input id="togListMan2" type="checkbox">
+<label for="togListMan2">
+  <span><font color="blue">【2018.7-2018.9 展开】</font></span>
+  <span><font color="blue">【2018.7-2018.9 折叠】</font></span>
+</label>
+  <div class="list">
+  	<ul>
+    	<li><a href="https://thestarsetsociety.cn/future-series-celestial-body/">未来系列：天体开采：为何下一代矿工会所见星辰 - FUTURES: Asteroid Mining – Why the next generation of miners will have their eyes on the stars (2020.8.27)</a></li>
+		  <li><a href="https://thestarsetsociety.cn/tss-future-series-colonizing/">未来系列：殖民火星，建立新世界 - FUTURES – Welcome To ‘New World’, Earth’s Colony On Planet Mars (2020.11.1)</a></li>
+		  <li><a href="https://thestarsetsociety.cn/tss-future-series-evolution/">未来系列：转基因生物的演变 - TSS FUTURES: The Changing State of GMOs (2020.12.1)</a></li>
+		  <li><a href="https://thestarsetsociety.cn/future-series-brain-computer/">未来系列：脑机接口与神经接口 - FUTURES: Brain-Machine Interfaces and the Neural Interface Project (2021.1.16)</a></li>
+		  <li><a href="https://thestarsetsociety.cn/tss-future-series-easing/">未来系列:缓和网络言论-悬在真相和公地悲剧之间的钢丝 - FUTURES: Moderating Online Speech – The tightrope between a Ministry of Truth and tragedy of the commons (2021.8.11)</a></li>
+		  <li><a href="https://thestarsetsociety.cn/futures-breaking-the-light/">未来系列：打破光的障碍——时空波如何推动曲速器从虚构走向现实 - FUTURES: Breaking The Light Barrier – How space-time waves are propelling warp drives from fiction to fact (2021.8.13)</a></li>
+		  <li><a href="https://thestarsetsociety.cn/future-series-refrigeration/">未来系列：冷冻技术——重获新生 - FUTURES: Cryonics – Coming Back To Life (2021.8.17)</a></li>
+		  <li><a href="https://thestarsetsociety.cn/future-series-social/">未来系列：社交怪物与其制造者：重塑社交媒体，促进人类更好发展 - FUTURES – Social Monsters and their Makers: Reimagining social media to nudge our better angels (2021.8.24)</a></li>
+		</ul>
+  </div>
+</div>
 
 <hr></hr>
 <h4>以下内容由wiki编委会成员编辑</h4>
