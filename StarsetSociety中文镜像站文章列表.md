@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2021-10-30T04:10:51.500Z
+date: 2021-11-05T13:33:39.022Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -100,8 +100,8 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
   </div></li>
   
   <li><div class="row">
-  <input id="togList5" type="checkbox">
-  <label for="togList5">
+  <input id="togListMan5" type="checkbox">
+  <label for="togListMan5">
     <span><font color="blue">【2019.4-2019.6 展开】</font></span>
     <span><font color="blue">【2019.4-2019.6 折叠】</font></span>
   </label>
@@ -116,11 +116,72 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 	      <li><a href="https://thestarsetsociety.cn/anti-crispr-molecules-discovered-that-can-block-the-gene-editing-technology/"><font color=grey>一种可阻断基因编辑技术的抗CRISPR分子被发现 - Anti-CRISPR molecules discovered that can block the gene editing technology (2019.5.4)</font></a></li>
 	      <li><a href="https://thestarsetsociety.cn/worlds-first-living-organism-with-fully-redesigned-dna-created/"><font color=grey>世界上第一个DNA被重新设计的生物诞生 - World’s first living organism with fully redesigned DNA created (2019.5.19)</font></a></li>
 	      <li><a href="https://thestarsetsociety.cn/tss-exclusive-forensic-philes-the-advancement-of-crime-solving-techniques/"><font color=grey>TSS特别报道：刑侦爱好者：刑侦破案技术的发展与进步 - TSS EXCLUSIVE – Forensic-Philes: The Advancement of Crime Solving Techniques (2019.5.20)</font></a></li>
-	      <li><a href="https://thestarsetsociety.cn/how-virtual-reality-can-help-diagnose-early-alzheimers-disease/"><font color=grey>VR技术是如何帮助诊断早期的阿尔茨海默病 - How virtual reality can help diagnose early Alzheimer’s disease (2019.5.27)</font></a></li>
+	      <li><a href="https://thestarsetsociety.cn/how-virtual-reality-can-help-diagnose-early-alzheimers-disease/"><font color=grey>VR技术是如何帮助诊断早期的阿尔茨海默病的 - How virtual reality can help diagnose early Alzheimer’s disease (2019.5.27)</font></a></li>
 	      <li><a href="https://thestarsetsociety.cn/microscopy-and-vr-illuminate-new-ways-to-prevent-and-treat-disease/"><font color=grey>显微镜检查和VR技术照亮了预防与医治疾病的新道路 - Microscopy And VR Illuminate New Ways To Prevent And Treat Disease (2019.6.3)</font></a></li>
+        <li><a href="https://thestarsetsociety.cn/implant-uses-electricity-to-heal-the-heart/"><font color="grey">医疗植入物用电流治疗心脏 - Implant uses electricity to heal the heart (2019.6.3)</font></a></li>
+        <li><a href="https://thestarsetsociety.cn/deepmind-ai-can-predict-kidney-illness-48-hours-before-it-occurs/"><font color="grey">DeepMind AI可在48小时前预测肾脏疾病的发生 - DeepMind AI can predict kidney illness 48 hours before it occurs (2019.6.3)</font></a></li>
     	</ul>
     </div>
   </div></li>
+  
+  <li><div class="row">
+  <input id="togListMan6" type="checkbox">
+  <label for="togListMan6">
+    <span><font color="blue">【2019.7-2019.9 展开】</font></span>
+    <span><font color="blue">【2019.7-2019.9 折叠】</font></span>
+  </label>
+  	<div class="list">
+   		<ul>
+        <li><a href="https://thestarsetsociety.cn/ibm-built-a-robotic-tongue-to-taste-test-hazardous-chemicals/"><font color="grey">DIBM创造了一种机器人舌头以检测危险化学品的味道 - DIBM built a robotic tongue to taste test hazardous chemicals (2019.7.3)</font></a></li>
+        <li><a href="https://thestarsetsociety.cn/despite-controversy-human-studies-of-crispr-move-forward-in-the-u-s/"><font color="grey">尽管存在争议，CRISPR在美国的人体研究取得了进展 - Despite Controversy, Human Studies of CRISPR Move Forward in the U.S. (2019.8.3)</font></a></li>
+        <li><a href="https://thestarsetsociety.cn/a-short-selfie-video-on-your-smartphone-can-now-measure-your-blood-pressure/"><font color="grey">现在手机上一段小小的自拍视频可测量你的血压 - A short selfie video on your smartphone can now measure your blood pressure (2019.8.3)</font></a></li>
+        <li><a href="https://thestarsetsociety.cn/singapores-government-will-give-every-citizen-a-free-fitbit-with-a-catch/"><font color="grey">新加坡政府将为每位公民提供免费的Fribit注册，但有一个条件 - Singapore’s government will give every citizen a free Fitbit, with a catch (2019.9.3)</font></a></li>
+        <li><a href="https://thestarsetsociety.cn/crispr-transforms-gel-into-shape-shifting-smart-material/"><font color="grey">CRISPR把凝胶转换成智能变形材料 - CRISPR Transforms Gel into Shape-Shifting Smart Material (2019.9.3)</font></a></li>
+      </ul>
+    </div>
+  </div></li>
+  
+  <li><div class="row">
+  <input id="togListMan7" type="checkbox">
+  <label for="togListMan7">
+    <span><font color="blue">【2020.1-2020.3 展开】</font></span>
+    <span><font color="blue">【2020.1-2020.3 折叠】</font></span>
+  </label>
+  	<div class="list">
+   		<ul>
+        <li><a href="https://thestarsetsociety.cn/chinese-scientist-who-edited-babies-genes-jailed-for-three-years/">非法编辑胎儿基因的中国科学家被判三年有期徒刑 - Chinese scientist who edited babies’ genes, jailed for three years (2020.1.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/startups-want-to-make-brain-computer-interfaces-accessible/">创业公司想让脑机接口变得可以访问 - Startups want to make Brain-Computer Interfaces Accessible (2020.1.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/a-trial-of-light-and-sound-a-breakthrough-in-alzheimers-treatment/">光与声的试验：阿尔茨海默病治疗的突破 - A Trial of Light And Sound: A Breakthrough in Alzheimer’s Treatment (2020.1.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/samsung-sheds-light-on-its-artificial-human-project//">三星公布了其“人造人”项目 - Samsung sheds light on its ‘artificial human’ project (2020.1.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/working-prototype-of-smart-contact-lens-unveiled/">智能隐形眼镜工作样机亮相 - Working Prototype Of Smart Contact Lens Unveiled (2020.2.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/massive-new-genome-study-unlocks-the-mysterious-secrets-of-how-cancers-form/">大规模的新基因组研究揭开了癌症形成的秘密 - Massive New Genome Study Unlocks The Mysterious Secrets of How Cancers Form (2020.2.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/handheld-bioprinter-treats-severe-burns-by-printing-new-skins-cells-directly-onto-wound/">手持式生物打印机通过直接在伤口上“打印”新的皮肤细胞来治疗严重烧伤 - Handheld Bioprinter Treats Severe Burns by ‘Printing’ New Skins Cells Directly Onto Wound (2020.2.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/how-ai-is-stopping-the-next-great-flu-before-it-starts/">人工智能如何在下一次大流感爆发前阻止它？ - How AI is stopping the next great flu before it starts (2020.2.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/blind-woman-plays-video-game-thanks-to-implant-that-jacks-directly-into-the-brain/">盲人妇女玩电子游戏，这多亏了直接进入大脑的植入物 - Blind Woman Plays Video Game Thanks to Implant That Jacks Directly into the Brain (2020.2.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/tss-exclusive-coronavirus-disease-x-and-how-humanity-will-survive-the-next-pandemic/">TSS特别报道：冠状病毒、X病毒、以及人类如何在下一次病毒大流行中生存 - TSS EXCLUSIVE: Coronavirus, Disease X, and How Humanity Will Survive the Next Pandemic (2020.3.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/mystery-of-lifespan-gap-between-sexes-may-be-solved-say-researchers/">研究人员称性别之间的寿命差距之谜可能会被解开 - Mystery of lifespan gap between sexes may be solved, say researchers (2020.3.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/crispr-treatment-inserted-directly-into-the-body-for-the-first-time/">首次直接植入体内的CRISPR治疗方法 - CRISPR Treatment Inserted Directly into the Body for the First Time (2020.3.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/pharmaceutical-companies-prepare-to-profit-from-the-coronavirus/">制药公司准备从冠状病毒中获利 - Pharmaceutical Companies Prepare to Profit from the Coronavirus (2020.3.3)</a></li>
+      </ul>
+    </div>
+  </div></li>
+  <li><div class="row">
+  <input id="togListMan8" type="checkbox">
+  <label for="togListMan8">
+    <span><font color="blue">【2020.4-2020.6 展开】</font></span>
+    <span><font color="blue">【2020.4-2020.6 折叠】</font></span>
+  </label>
+  	<div class="list">
+   		<ul>
+        <li><a href="https://thestarsetsociety.cn/stanford-engineers-find-ankle-exoskeleton-aids-running/">斯坦福大学工程师发现脚踝外骨骼有助于跑步 - Stanford engineers find ankle exoskeleton aids running (2020.4.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/tss-exclusive-an-age-of-epidemics-why/">TSS特别报道：一个流行病时代：为何？ - TSS EXCLUSIVE – An Age of Epidemics: Why? (2020.4.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/tss-exclusive-nature-as-mentor-biomimicry-medicine-and-epidemiology/">TSS特别报道—自然作为导师: 仿生学、医学和流行病学 - TSS EXCLUSIVE – Nature As Mentor: Biomimicry, Medicine, and Epidemiology (2020.4.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/bad-news-wrapped-in-protein-inside-the-coronavirus-genome/">坏消息—裹在蛋白质里的冠状病毒基因组: 仿生学、医学和流行病学 - Bad News Wrapped in Protein: Inside the Coronavirus Genome (2020.4.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/apple-and-google-are-collaborating-on-covid-19-contact-tracing/">苹果和谷歌正在合作进行关于COVID-19联系人的跟踪方案 - Apple and Google are collaborating on COVID-19 contact tracing (2020.4.3)</a></li>
+      </ul>
+    </div>
+  </div></li>
+
 <br/>
   <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
@@ -153,25 +214,27 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 <font color="blue">The Starset Society examines the near-future implications of technology and its theoretical impact on the public. TSS will examine the current state of these rapidly developing technologies and ponder the FUTURES that may unfold as a result.
 TSS将审视未来科技的作用及其对公众的影响——这些技术的现状以及它们可能带来的未来。</font>
 
-<div class="row">
-<input id="togListMan2" type="checkbox">
-<label for="togListMan2">
-  <span><font color="blue">【2018.7-2018.9 展开】</font></span>
-  <span><font color="blue">【2018.7-2018.9 折叠】</font></span>
+<ul>
+	<li><div class="row">
+	<input id="togListFuture" type="checkbox">
+	<label for="togListFuture">
+  	<span><font color="blue">【TSS未来系列文章 展开】</font></span>
+  	<span><font color="blue">【TSS未来系列文章 折叠】</font></span>
 </label>
-  <div class="list">
-  	<ul>
-    	<li><a href="https://thestarsetsociety.cn/future-series-celestial-body/">未来系列：天体开采：为何下一代矿工会所见星辰 - FUTURES: Asteroid Mining – Why the next generation of miners will have their eyes on the stars (2020.8.27)</a></li>
-		  <li><a href="https://thestarsetsociety.cn/tss-future-series-colonizing/">未来系列：殖民火星，建立新世界 - FUTURES – Welcome To ‘New World’, Earth’s Colony On Planet Mars (2020.11.1)</a></li>
-		  <li><a href="https://thestarsetsociety.cn/tss-future-series-evolution/">未来系列：转基因生物的演变 - TSS FUTURES: The Changing State of GMOs (2020.12.1)</a></li>
-		  <li><a href="https://thestarsetsociety.cn/future-series-brain-computer/">未来系列：脑机接口与神经接口 - FUTURES: Brain-Machine Interfaces and the Neural Interface Project (2021.1.16)</a></li>
-		  <li><a href="https://thestarsetsociety.cn/tss-future-series-easing/">未来系列:缓和网络言论-悬在真相和公地悲剧之间的钢丝 - FUTURES: Moderating Online Speech – The tightrope between a Ministry of Truth and tragedy of the commons (2021.8.11)</a></li>
-		  <li><a href="https://thestarsetsociety.cn/futures-breaking-the-light/">未来系列：打破光的障碍——时空波如何推动曲速器从虚构走向现实 - FUTURES: Breaking The Light Barrier – How space-time waves are propelling warp drives from fiction to fact (2021.8.13)</a></li>
-		  <li><a href="https://thestarsetsociety.cn/future-series-refrigeration/">未来系列：冷冻技术——重获新生 - FUTURES: Cryonics – Coming Back To Life (2021.8.17)</a></li>
-		  <li><a href="https://thestarsetsociety.cn/future-series-social/">未来系列：社交怪物与其制造者：重塑社交媒体，促进人类更好发展 - FUTURES – Social Monsters and their Makers: Reimagining social media to nudge our better angels (2021.8.24)</a></li>
-		</ul>
-  </div>
-</div>
+  	<div class="list">
+  		<ul>
+    		<li><a href="https://thestarsetsociety.cn/future-series-celestial-body/">未来系列：天体开采：为何下一代矿工会所见星辰 - FUTURES: Asteroid Mining – Why the next generation of miners will have their eyes on the stars (2020.8.27)</a></li>
+		  	<li><a href="https://thestarsetsociety.cn/tss-future-series-colonizing/">未来系列：殖民火星，建立新世界 - FUTURES – Welcome To ‘New World’, Earth’s Colony On Planet Mars (2020.11.1)</a></li>
+		  	<li><a href="https://thestarsetsociety.cn/tss-future-series-evolution/">未来系列：转基因生物的演变 - TSS FUTURES: The Changing State of GMOs (2020.12.1)</a></li>
+		  	<li><a href="https://thestarsetsociety.cn/future-series-brain-computer/">未来系列：脑机接口与神经接口 - FUTURES: Brain-Machine Interfaces and the Neural Interface Project (2021.1.16)</a></li>
+			  <li><a href="https://thestarsetsociety.cn/tss-future-series-easing/">未来系列:缓和网络言论-悬在真相和公地悲剧之间的钢丝 - FUTURES: Moderating Online Speech – The tightrope between a Ministry of Truth and tragedy of the commons (2021.8.11)</a></li>
+			  <li><a href="https://thestarsetsociety.cn/futures-breaking-the-light/">未来系列：打破光的障碍——时空波如何推动曲速器从虚构走向现实 - FUTURES: Breaking The Light Barrier – How space-time waves are propelling warp drives from fiction to fact (2021.8.13)</a></li>
+			  <li><a href="https://thestarsetsociety.cn/future-series-refrigeration/">未来系列：冷冻技术——重获新生 - FUTURES: Cryonics – Coming Back To Life (2021.8.17)</a></li>
+			  <li><a href="https://thestarsetsociety.cn/future-series-social/">未来系列：社交怪物与其制造者：重塑社交媒体，促进人类更好发展 - FUTURES – Social Monsters and their Makers: Reimagining social media to nudge our better angels (2021.8.24)</a></li>
+			</ul>
+	  </div>
+	</div></li>
+</ul>
 
 <hr></hr>
 <h4>以下内容由wiki编委会成员编辑</h4>
