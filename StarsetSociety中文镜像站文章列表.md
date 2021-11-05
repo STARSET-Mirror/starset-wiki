@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2021-11-05T13:33:39.022Z
+date: 2021-11-05T13:38:04.148Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -178,6 +178,7 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
         <li><a href="https://thestarsetsociety.cn/tss-exclusive-nature-as-mentor-biomimicry-medicine-and-epidemiology/">TSS特别报道—自然作为导师: 仿生学、医学和流行病学 - TSS EXCLUSIVE – Nature As Mentor: Biomimicry, Medicine, and Epidemiology (2020.4.3)</a></li>
         <li><a href="https://thestarsetsociety.cn/bad-news-wrapped-in-protein-inside-the-coronavirus-genome/">坏消息—裹在蛋白质里的冠状病毒基因组: 仿生学、医学和流行病学 - Bad News Wrapped in Protein: Inside the Coronavirus Genome (2020.4.3)</a></li>
         <li><a href="https://thestarsetsociety.cn/apple-and-google-are-collaborating-on-covid-19-contact-tracing/">苹果和谷歌正在合作进行关于COVID-19联系人的跟踪方案 - Apple and Google are collaborating on COVID-19 contact tracing (2020.4.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/prisons-attempting-to-detect-coronavirus-in-inmate-phone-calls/">监狱试图在囚犯的电话中检测冠状病毒 - Prisons Attempting to Detect Coronavirus in Inmate Phone Calls (2020.5.3)</a></li>
       </ul>
     </div>
   </div></li>
