@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2021-11-05T13:38:04.148Z
+date: 2021-11-12T15:21:24.633Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -38,9 +38,9 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
   </label>
   	<div class="list">
    		<ul>
-      	<li><a href="https://thestarsetsociety.cn/give-the-robots-electronic-tongues/"><font color=grey>给机器人安上机械舌头 - Give the robots electronic tongues (2018.5.29)</font></a></li>
-  			<li><a href="https://thestarsetsociety.cn/new-imbed-pill-can-send-signs-of-disease-to-your-smartphone/"><font color=grey>新型IMBED药丸能够向你的智能手机发送病征 - New IMBED pill can send signs of disease to your smartphone (2018.5.29)</font></a></li>
-      	<li><a href="https://thestarsetsociety.cn/sex-robots-unclear-if-health-benefits-for-users/"><font color=grey>性机器人：尚不明确是否对用户健康有益 - Sex Robots: Unclear if health benefits for users (2018.6.6)</font></a></li>
+      	<li><a href="https://thestarsetsociety.cn/give-the-robots-electronic-tongues/"><font color=blue>给机器人安上机械舌头 - Give the robots electronic tongues (2018.5.29)</font></a></li>
+  			<li><a href="https://thestarsetsociety.cn/new-imbed-pill-can-send-signs-of-disease-to-your-smartphone/"><font color=blue>新型IMBED药丸能够向你的智能手机发送病征 - New IMBED pill can send signs of disease to your smartphone (2018.5.29)</font></a></li>
+      	<li><a href="https://thestarsetsociety.cn/sex-robots-unclear-if-health-benefits-for-users/"><font color=blue>性机器人：尚不明确是否对用户健康有益 - Sex Robots: Unclear if health benefits for users (2018.6.6)</font></a></li>
     		<li><a href="https://thestarsetsociety.cn/scientists-use-gene-therapy-to-take-step-towards-giving-paralyzed-people-control-of-their-hands/"_blank><font color=grey>科学家们采取基因疗法的措施来让瘫痪的病人控制他们的手 - Scientists use gene therapy to take step towards giving paralyzed people control of their hands (2018.6.18)</font></a></li>
      		<li><a href="https://thestarsetsociety.cn/dna-synthesis-breakthrough-could-lead-to-faster-medical-discoveries/"><font color=grey>DNA合成技术的突破可带来更快的医学发现 - DNA synthesis breakthrough could lead to faster medical discoveries (2018.6.29)</font></a></li>
      	</ul>
