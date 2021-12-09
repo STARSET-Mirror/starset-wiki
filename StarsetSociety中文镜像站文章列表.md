@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2021-12-09T09:27:13.017Z
+date: 2021-12-09T09:27:36.440Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -22,7 +22,7 @@ dateCreated: 2021-08-21T05:26:41.405Z
 
 Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>排列，并按时间折叠进不同的目录以防止你在阅读过程中被长长的文章列表弄晕
 <u><a href="">蓝色的链接</a></u>代表该文章已翻译，<font color=grey><u>灰色的链接</u></font>代表该文章尚未进行翻译。
-<font color="blue" size=6>【TO PSNV: 下次更改列表链接颜色直接删除"font"代码串，不然链接颜色会和子目录颜色重合导致不好分辨。--Bearler】</font>
+<font color="blue" size=6>【TO PSNV: 下次更改列表链接颜色直接删除"font color="代码串，不然链接颜色会和子目录颜色重合导致不好分辨。--Bearler】</font>
 
 网址：https://thestarsetsociety.cn/starset-society-mission/
 ## 人类 - Man
