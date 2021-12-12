@@ -2,7 +2,7 @@
 title: Starset世界观整理
 description: 快来康！！
 published: true
-date: 2021-08-29T12:51:17.333Z
+date: 2021-12-12T07:12:06.509Z
 tags: 世界观
 editor: markdown
 dateCreated: 2021-08-21T10:51:25.607Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-21T10:51:25.607Z
 
 # Starset的世界观整理
 **<center><font face="微软雅黑">With Purpose.</font></center>**
-*本wiki page大量参考贴吧的Starset官方设定科普楼。没有任何copyright，因为那楼楼主就是编者本人。*
+<center>本wiki page大量参考贴吧的Starset官方设定科普楼。没有任何copyright，因为那楼楼主就是编者本人。</center>
 <center>如果你还没有读过小说</center>
 <center>但是准备读或者正在读且不希望被剧透的话</center>
 <center>请放心阅读，本页面剧透量较少。</center>
@@ -79,7 +79,6 @@ Gregor告诉Aston，The Order将于2021年向PROX发射火箭，使PROX地球化
 
 值得一提的是，他们同样在研究脑机接口（Brain-Machine Interface），即Divisions专辑中所提到的BMI。
 
-所以有猜想认为，Divisions中所描述的[New West](#newwest)便是The Order的未来发展。
 
 在小说的开头，The Order看上去像是一个正面组织，但随着故事发展，似乎并非如此。
 > 来学学The Order式问好吧：With purpose
@@ -129,8 +128,15 @@ Gregor从来没跟我们说过这四个词的意思，所以我没法直接说�
 [回到开头](#main)
 
 ---
-### <div id="newwest"><font size=4>**New West & Rebel**</font></div>
-这个组织该怎么介绍？我认为他们的宣传视频已经替我讲完了。
+### <div id="newwest"><font size=4>**New East/West & Rebel**</font></div>
+有关New East，可以看[这个视频](https://www.bilibili.com/video/BV1s34y1Q78v?share_source=copy_web)
+
+**以下是内容摘录，不想看视频的可以看文字版：**
+2010年，美国国防部高级研究计划局（DARPA），开始了一项神经链接系统的工作，该系统被称为“脑机接口（BMI）”。这项技术在最高机密级下开发，将被用于秘密间谍活动。目的是让美国在不断拓展的网络战场上获得重大优势。对毫无戒心的外国特工使用BMI，使得美国情报部门能够远程连接到他们的思想。BMI系统于2020年部署并取得巨大成功，为了解众多潜在对手的意图和秘密提供了窗口。
+然而，在2021年，一次失败的行动让这项技术落入一个秘密国家手中，这个国家随后便利用BMI对抗美国。数十年以后，这个被称为New East的国家利用这项技术来蚕食知识产权，并对美国进行控制。从而迅速崛起为一个全球霸权。21世纪30年代初，已经四分五裂的美国对New East发起了攻击，然而，这次攻击很快就被挫败，因为New East已经充分知晓且做好了准备。最后，美国和它的盟友向New East投降，并被改称”New West”，New West的居民——现在大多是贫困的劳动者——在BMI神奇好处的推销下，都被植入了BMI。但最终，所有人都被迫屈服于New East的意志，到那时，New East的真正意图才昭然若揭。
+
+
+有关New West……
 赶快[加入新西部，成为人上人](https://www.bilibili.com/video/BV1c5411h7k5?share_source=copy_web)吧！
 这是另外一个宣传视频[Transmissions 04 A](https://www.bilibili.com/video/BV1c5411h7k5?share_source=copy_web)
 
@@ -153,6 +159,9 @@ Gregor从来没跟我们说过这四个词的意思，所以我没法直接说�
 </details> 
 
 ~~（题外话，如果你曾经等过Dream Theater的专辑The Astonishing并收到过他们发的邮件，而且有兴趣点开邮件内链接的话，你一定会觉得以上操作很熟悉……）~~
+
+
+
 
 [回到开头](#main)
 
@@ -467,6 +476,11 @@ That **"reality"** must be the Architecture.
 ---
 我又开始痴迷sst lore了……
 [Ricochet那个全景MV](https://www.bilibili.com/video/BV1Nt4y1C77g?share_source=copy_web)里的人是不是Aston和Lara啊……
+
+---
+再者关于New East这种世界霸权……我不知道是不是有现实参照物嗷，但我希望没有。再联系上三专intro里的中文，很难让人不联想到西方对我国的……
+达斯汀你清醒一点嗷。
+不过要是他打算两边一块骂……那随他。
 
 
 
