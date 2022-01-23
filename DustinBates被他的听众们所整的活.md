@@ -2,7 +2,7 @@
 title: DustinBates被他的听众们所整的活
 description: 整活页面，图一乐的，不要认真
 published: true
-date: 2021-09-10T15:37:00.779Z
+date: 2022-01-23T15:48:09.411Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-21T02:08:09.918Z
@@ -35,7 +35,7 @@ dateCreated: 2021-08-21T02:08:09.918Z
 他拥有结束对S4Y的控制并让人们自由的使命，基于自己的选择根据真实信息。
 ![-2096252690.jpg](/-2096252690.jpg)
 *Smash into piece队照*
-- Ice Nine Kills，有自己的恐怖故事（准确的说就是恐怖片大杂烩），今年还会出小说~~果然不出小说的不是好乐队~~，想要了解的可以按照下面给出的顺序看[Ice Nine Kills 全MV](https://www.bilibili.com/video/BV1x64y1z7Hh)
+- Ice Nine Kills，有自己的恐怖故事（准确的说就是恐怖片大杂烩），2021年还会出小说~~果然不出小说的不是好乐队~~，想要了解的可以按照下面给出的顺序看[Ice Nine Kills 全MV](https://www.bilibili.com/video/BV1x64y1z7Hh)
  有特点的一点事，Ice Nine Kills在2015年之后的专辑都是改编，比如说他们15年的专辑[Every Trick In The Book](https://music.163.com/#/album?id=35238403)就是文学名著改编，而[The Sliver Scream](https://music.163.com/#/album?id=73782347)就是恐怖片改编了
  ![e6hr0ldvuac8wa.jpg.png](/e6hr0ldvuac8wa.jpg.png)
 *Ice Nine Kills队照*
@@ -48,9 +48,10 @@ dateCreated: 2021-08-21T02:08:09.918Z
   4.Part Four - Stabbing In The Dark 改编至《月光光心慌慌》("Halloween")
   5.Part Five - IT is the end 改编至《小丑回魂》("IT")
   2021.The Silver Scream 2: Welcome to Horrorwood（因为MV还没拍完，所以，等呗）
-  ?.Hip To Be Scared 改编至《美国精神病人》("Amrican Psycho")
-  1.Assault & Batteries 改编至《鬼娃回魂》("Child's Play")
-  2.Rainy Day 改编至《生化危机》("Resident Evil") ~~有一说一游戏改编电影再改编这操作也没谁了~~
+  1.Hip To Be Scared 改编至《美国精神病人》("Amrican Psycho")
+  2.Assault & Batteries 改编至《鬼娃回魂》("Child's Play")
+  3.Rainy Day 改编至《生化危机》("Resident Evil") ~~有一说一游戏改编电影再改编这操作也没谁了~~
+  4.Funeral Derangements 改编至《宠物公墓》("Pet Sematary")
 - Dance Gavin Dance，虽说他们无具体的世界观，但是他们有很多的系列故事，于是就破格推荐了
  （其实还有个原因是因为他们的专辑封面过于好看）
  Dance Gavin Dance的系列有**很多很多很多很多很多**
@@ -104,6 +105,7 @@ Suasion的故事简单来说的话就是**唤回初心，奔向宇宙**，从19�
 **现在追Suasion，你就是老粉啦！**
 ![829898194.jpg](/829898194.jpg)
 *Suasion队照*
+
 ## 最后
 恭喜你看完这个一时抽风写下的专栏
 以及之前听说有人要抓我，于是我改了一下这专栏表示我还活着
