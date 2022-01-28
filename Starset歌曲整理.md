@@ -2,7 +2,7 @@
 title: Starset歌曲整理
 description: 这里对Starset目前已发布的大部分歌曲进行整理，可在这里进行查询。
 published: false
-date: 2022-01-28T09:00:31.307Z
+date: 2022-01-28T09:02:48.580Z
 tags: 歌曲
 editor: markdown
 dateCreated: 2021-09-11T10:07:13.003Z
@@ -45,4 +45,12 @@ onmouseout="this.className='d_out1'"><a href="none"><font color="black">My Demon
 <center><div class="d_out2" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out2'"><a href="none"><font color="black">Antigravity</font></a></div></center>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">It Has Begun</font></a></div></center>
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">Dark On Me</font></a></div></center>
+<center><div class="d_out2" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">Let It Die</font></a></div></center>
+<center><div class="d_out1" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">The Future Is Now</font></a></div></center>
+<center><div class="d_out2" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">Point Of No Return</font></a></div></center>
+<center><div class="d_out1" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">Rise And Fall</font></a></div></center>
