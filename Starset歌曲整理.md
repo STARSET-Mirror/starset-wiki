@@ -2,7 +2,7 @@
 title: Starset歌曲整理
 description: 这里对Starset目前已发布的大部分歌曲进行整理，可在这里进行查询。
 published: false
-date: 2022-01-28T08:55:59.949Z
+date: 2022-01-28T09:00:31.307Z
 tags: 歌曲
 editor: markdown
 dateCreated: 2021-09-11T10:07:13.003Z
@@ -28,7 +28,21 @@ dateCreated: 2021-09-11T10:07:13.003Z
 
 ## <div id="trans">Transmissions（2014.7.8）</div>
 <div align=center><img src="https://imgs.thestarsetsociety.cn/2022/01/28/64b63177fbd1f.jpg" alt="transmissions.jpg" title="transmissions.jpg" /></div>
-<center><div class="d_out1" onmouseover="this.className='d_over1'"
+<center><div class="d_out1" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out1'"><a href="none"><font color="black">First Light</font></a></div></center>
-<center><div class="d_out2" onmouseover="this.className='d_over2'"
+<center><div class="d_out2" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out2'"><a href="none"><font color="black">Down With The Fallen</font></a></div></center>
+<center><div class="d_out1" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">Halo</font></a></div></center>
+<center><div class="d_out2" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">Carnivore</font></a></div></center>
+<center><div class="d_out1" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">Telescope</font></a></div></center>
+<center><div class="d_out2" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">It Has Begun</font></a></div></center>
+<center><div class="d_out1" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">My Demons</font></a></div></center>
+<center><div class="d_out2" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">Antigravity</font></a></div></center>
+<center><div class="d_out1" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">It Has Begun</font></a></div></center>
