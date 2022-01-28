@@ -2,7 +2,7 @@
 title: Starset歌曲整理
 description: 这里对Starset目前已发布的大部分歌曲进行整理，可在这里进行查询。
 published: false
-date: 2022-01-28T09:39:39.762Z
+date: 2022-01-28T10:01:30.563Z
 tags: 歌曲
 editor: markdown
 dateCreated: 2021-09-11T10:07:13.003Z
@@ -126,28 +126,24 @@ onmouseout="this.className='d_out2'"><a href="none"><font color="black">MANIFEST
 <center><div class="d_out1" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out1'"><a href="none"><font color="black">ECHO</font></a></div></center>
 <center><div class="d_out2" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out2'"><a href="none"><font color="black">DIE FOR YOU</font></a></div></center>
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">WHERE THE SKIES END</font></a></div></center>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">Ricochet</font></a></div></center>
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">PERFECT MACHINE</font></a></div></center>
 <center><div class="d_out2" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out2'"><a href="none"><font color="black">Starlight</font></a></div></center>
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">TELEKINETIC</font></a></div></center>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">Into The Unknown</font></a></div></center>
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">STRATOSPHERE</font></a></div></center>
 <center><div class="d_out2" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out2'"><a href="none"><font color="black">Gravity Of You</font></a></div></center>
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">FAULTLINE</font></a></div></center>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">Back To The Earth</font></a></div></center>
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">SOLSTICE</font></a></div></center>
 <center><div class="d_out2" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out2'"><a href="none"><font color="black">Last To Fall</font></a></div></center>
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">TRAILS</font></a></div></center>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">Bringing It Down</font></a></div></center>
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">WAKING UP</font></a></div></center>
 <center><div class="d_out2" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out2'"><a href="none"><font color="black">Unbecoming</font></a></div></center>
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">OTHER WORLDS THAN THESE</font></a></div></center>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">Monster</font></a></div></center>
-<center><div class="d_out2" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out2'"><a href="none"><font color="black">Telepathic</font></a></div></center>
-<center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">Everglow</font></a></div></center>
+onmouseout="this.className='d_out1'"><a href="none"><font color="black">DIVING BELL</font></a></div></center>
 
 - [回到索引](#list)
