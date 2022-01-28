@@ -2,7 +2,7 @@
 title: Starset歌曲整理
 description: 这里对Starset目前已发布的大部分歌曲进行整理，可在这里进行查询。
 published: false
-date: 2022-01-28T04:37:01.998Z
+date: 2022-01-28T04:38:09.374Z
 tags: 歌曲
 editor: markdown
 dateCreated: 2021-09-11T10:07:13.003Z
@@ -16,6 +16,5 @@ dateCreated: 2021-09-11T10:07:13.003Z
 
 ## Transmissions（2014.7.8）
 ![transmissions.jpg](https://imgs.thestarsetsociety.cn/2022/01/28/64b63177fbd1f.jpg)
-<div onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">哈哈哈</div>
 <div class="d_out" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out'">哈哈哈哈哈</div>
