@@ -2,7 +2,7 @@
 title: Starset歌曲整理
 description: 这里对Starset目前已发布的大部分歌曲进行整理，可在这里进行查询。
 published: false
-date: 2022-01-28T08:45:20.533Z
+date: 2022-01-28T08:51:48.919Z
 tags: 歌曲
 editor: markdown
 dateCreated: 2021-09-11T10:07:13.003Z
@@ -15,8 +15,9 @@ dateCreated: 2021-09-11T10:07:13.003Z
 {.is-warning}
 
 ## <div id="list">索引</div>
-<p>该页面是一个歌曲目录，你可以在这里查询Starset发布的大部分歌曲。<font size=1><s>[为什么说大部分是因为……我也不知道]</s></font>
-<br/>点击下方的标签可以帮助你快速定位到不同专辑的目录，点击目录中的歌曲可以跳转到站内该曲目的单曲介绍页面。</p>
+<p>该页面是一个歌曲目录，你可以在这里查询Starset发布的大部分歌曲。<font size=1><s>[为什么说大部分是因为……我也不知道]</s></font></p>
+<p>点击下方的标签可以帮助你快速定位到不同专辑的目录，点击目录中的歌曲可以跳转到站内该曲目的单曲介绍页面。</p>
+<p><u><font color="grey">灰色的标签</font></u>表示该单曲的页面尚未创建，你可以去查看其它单曲的介绍页面，也可以加入并协助我们进行维基编辑。</p>
 
 - [Transmissions](#trans)
 - [Vessels](#vss)
