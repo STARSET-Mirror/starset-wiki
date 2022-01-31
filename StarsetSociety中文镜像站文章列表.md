@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2022-01-31T11:55:21.903Z
+date: 2022-01-31T12:30:50.675Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -179,14 +179,90 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
         <li><a href="https://thestarsetsociety.cn/bad-news-wrapped-in-protein-inside-the-coronavirus-genome/">坏消息—裹在蛋白质里的冠状病毒基因组: 仿生学、医学和流行病学 - Bad News Wrapped in Protein: Inside the Coronavirus Genome (2020.4.3)</a></li>
         <li><a href="https://thestarsetsociety.cn/apple-and-google-are-collaborating-on-covid-19-contact-tracing/">苹果和谷歌正在合作进行关于COVID-19联系人的跟踪方案 - Apple and Google are collaborating on COVID-19 contact tracing (2020.4.3)</a></li>
         <li><a href="https://thestarsetsociety.cn/prisons-attempting-to-detect-coronavirus-in-inmate-phone-calls/">监狱试图在囚犯的电话中检测冠状病毒 - Prisons Attempting to Detect Coronavirus in Inmate Phone Calls (2020.5.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/who-conditionally-backs-covid-19-vaccine-trials-that-infect-people/">WHO有条件地支持给被Covid-19感染的人进行疫苗试验 - WHO conditionally backs Covid-19 vaccine trials that infect people (2020.5.6)</a></li>
+        <li><a href="https://thestarsetsociety.cn/uks-nhs-covid-19-tracking-app-lacks-safeguards-against-data-misuse/">英国国家医疗服务系统的COVID-19追踪应用缺乏数据滥用防护措施 - UK’s NHS COVID-19 Tracking App Lacks Safeguards Against Data Misuse (2020.5.6)</a></li>
+        <li><a href="https://thestarsetsociety.cn/tss-exclusive-medical-robotics-considerations-aplenty/">TSS特别报道 — 医疗机器人：考虑周全 - TSS EXCLUSIVE – Medical Robotics: Considerations Aplenty (2020.5.13)</a></li>
+        <li><a href="https://thestarsetsociety.cn/coronavirus-patient-dna-study-could-tell-us-why-some-fare-worse/">新冠患者的DNA可以告诉我们为何有些人的情况会更糟 - Coronavirus patient DNA study could tell us why some fare worse (2020.5.13)</a></li>
+        <li><a href="https://thestarsetsociety.cn/uk-scientists-want-to-infect-volunteers-with-covid-19-in-race-to-find-vaccine/">英国科学家希望用Covid-19感染志愿者以寻找疫苗 - UK scientists want to infect volunteers with Covid-19 in race to find vaccine (2020.5.27)</a></li>
+        <li><a href="https://thestarsetsociety.cn/3d-printed-animal-stinger-needles-might-make-human-injections-less-painful/">3D打印的动物毒刺针可能会减轻人类注射的痛苦 - 3D Printed Animal Stinger Needles Might Make Human Injections Less Painful (2020.5.27)</a></li>
+        <li><a href="https://thestarsetsociety.cn/digital-health-passport-could-open-the-door-to-safe-international-air-travel/">“数字”健康护照可以为安全的国际航空旅行打开大门 - Digital Health Passport Could Open the Door to Safe International Air Travel (2020.5.31)</a></li>
+        <li><a href="https://thestarsetsociety.cn/new-tool-turns-crispr-into-genetic-swiss-army-knife/">新工具使CRISPR成为“基因学中的瑞士军刀” - New tool turns CRISPR into “genetic Swiss Army Knife” (2020.6.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/immune-discovery-may-treat-all-cancer/">免疫学发现“有望治疗所有癌症” - Immune discovery ‘may treat all cancer’ (2020.6.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/immune-discovery-may-treat-all-cancer/">免疫学发现“有望治疗所有癌症” - Immune discovery ‘may treat all cancer’ (2020.6.3)</a></li>
       </ul>
     </div>
   </div></li>
-
-<br/>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
-  <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
-  <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
+  <li><div class="row">
+  <input id="togListMan9" type="checkbox">
+  <label for="togListMan9">
+    <span><font color="blue">【2020.7-2020.9 展开】</font></span>
+    <span><font color="blue">【2020.7-2020.9 折叠】</font></span>
+  </label>
+  	<div class="list">
+   		<ul>
+        <li><a href="https://thestarsetsociety.cn/crispr-gene-editing-in-human-embryos-wreaks-chromosome-mayhem/">人类胚胎中的CRISPR基因编辑导致染色体混乱 - CRISPR Gene Editing in Human Embryos Wreaks Chromosome Mayhem (2020.7.11)</a></li>
+        <li><a href="https://thestarsetsociety.cn/the-mysterious-case-of-man-who-can/">脑皮质基底核退化症：关于大脑意识产生的疾病 (2020.8.3)</a></li>
+        <li><a href="https://thestarsetsociety.cn/blood-tests-will-likely/">血液检测将可能在症状出现前4年检出癌症 - Experimental Blood Test Detects Cancer up to Four Years before Symptoms Appear (2020.8.12)</a></li>
+        <li><a href="https://thestarsetsociety.cn/crispr-can-transform/">CRISPR可将常规脂肪转化为可提供能量的脂肪 - CRISPR turns normal body fat into a type that burns energy (2020.8.30)</a></li>
+        <li><a href="https://thestarsetsociety.cn/studies-have-shown-that-there/">研究表明针对遗传病的基因编辑尚存在安全风险 - Genome editing for heritable diseases not yet safe, report states (2020.9.10)</a></li>
+      </ul>
+    </div>
+  </div></li>
+  <li><div class="row">
+  <input id="togListMan10" type="checkbox">
+  <label for="togListMan10">
+    <span><font color="blue">【2020.10-2020.12 展开】</font></span>
+    <span><font color="blue">【2020.10-2020.12 折叠】</font></span>
+  </label>
+  	<div class="list">
+   		<ul>
+        <li><a href="https://thestarsetsociety.cn/the-3d-printed-human-heart-is/">3D打印的人类心脏进一步接近真实心脏水平 - This Squishy 3D-Printed Human Heart Feels Like the Real Thing (2020.11.30)</a></li>
+        <li><a href="https://thestarsetsociety.cn/tss-special-report-will-the/">TSS特别报道：处于停滞中的克隆学是否会重新复苏？ (2020.11.30)</a></li>
+        <li><a href="https://thestarsetsociety.cn/what-happens-to-our-brain/">与新冠共存一年，我们的大脑发生了什么变化？ - Has a year of living with Covid-19 rewired our brains? (2020.11.30)</a></li>
+      </ul>
+    </div>
+  </div></li>
+  <li><div class="row">
+  <input id="togListMan11" type="checkbox">
+  <label for="togListMan11">
+    <span><font color="blue">【2021.1-2021.7 展开】</font></span>
+    <span><font color="blue">【2021.1-2021.7 折叠】</font></span>
+  </label>
+  	<div class="list">
+   		<ul>
+        <li><a href="https://thestarsetsociety.cn/future-series-brain-computer/">未来系列：脑机接口与神经接口 - FUTURES: Brain-Machine Interfaces and the Neural Interface Project (2021.1.16)</a></li>
+        <li><a href="https://thestarsetsociety.cn/tss-exclusive-report-the-new/">TSS独家报道:新冠疫苗护照可能有助于经济复苏，但有关人士表示:这其中有一个问题 - TSS EXCLUSIVE: COVID Vaccine Passports May Help Revive Economies But Critics Say There’s A Catch (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/scientists-have-wirelessly/">科学家首次将人脑与电脑无线连接 - Scientists Connect Human Brain to Computer Wirelessly for First Time Ever (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/nerve-prosthesis-helps-the/">“神经假肢”帮助失语者用电脑“说话” - Brain implant helps man ‘speak’ through a computer (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/a-recent-study-found-that-the/">近期一项研究发现，衰老过程是不可阻挡的 - Aging process is unstoppable, finds unprecedented study (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/combination-of-emotion/">情感检测AI与眼球追踪技术相结合 - Emotion-detection AI meets eye-tracking technology (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/scientists-used-crispr/">科学家利用CRISPR设计了一种新的“超级细菌”，所有病毒都无法对它造成伤害 - Scientists Used CRISPR to Engineer a New ‘Superbug’ That’s Invincible to All Viruses (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/the-latest-research-shows/">最新研究表明，人类可以活到150岁 - Humans Could Live up to 150 Years, New Research Suggests (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/scientists-have-finally/">科学家们终于完成人类基因组研究 - Scientists Finish the Human Genome at Last (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/after-winning-the-nobel/">得到诺贝尔奖之后，Crispr基因编辑疗法的下一步是什么？ - After the Nobel, what next for Crispr gene-editing therapies? (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/future-series-artificial/">未来系列：人工永生——“死后生活”到底会是什么样？ - FUTURES: Artificial Immortality – What could “life after death” really look like? (2021.7)</a></li>
+        <li><a href="https://thestarsetsociety.cn/future-series-refrigeration/">未来系列：冷冻技术 ——重获新生 - FUTURES: Cryonics – Coming Back To Life (2021.7)</a></li>
+      </ul>
+    </div>
+  </div></li>
+  <li><div class="row">
+  <input id="togListMan12" type="checkbox">
+  <label for="togListMan12">
+    <span><font color="blue">【2021.8-2021.12 展开】</font></span>
+    <span><font color="blue">【2021.8-2021.12 折叠】</font></span>
+  </label>
+  	<div class="list">
+   		<ul>
+        <li><a href="https://thestarsetsociety.cn/future-series-bio/">未来系列：生物制造——医疗保健的未来？ - FUTURES: Biofabrication -The Future of Healthcare? (2021.8)</a></li>
+        <li><a href="https://thestarsetsociety.cn/apple-is-studying-using-data/">苹果公司正在研究使用iPhone手机中的数据来监测情绪，批评者认为这项科技有缺陷。 - Apple is studying mood detection using iPhone data. Critics say the tech is flawed (2021.9)</a></li>
+        <li><a href="https://thestarsetsociety.cn/gene-fossil-complete-dna/">“基因化石”:印尼发现7200年前女性的完整DNA - ‘Genetic fossil’: intact DNA from woman who lived 7,200 years ago discovered in Indonesia (2021.9)</a></li>
+        <li><a href="https://thestarsetsociety.cn/genetically-modified-bacteria/">转基因细菌产生了彩虹般的颜色 - Engineered Bacteria Produce a Rainbow of Colors (2021.9)</a></li>
+        <li><a href="https://thestarsetsociety.cn/future-series-artificial-2/">未来系列:人造子宫——新技术如何重新定义人类生殖 - FUTURES: Artificial Wombs – How new technology may be redefining human reproduction (2021.10)</a></li>
+        <li><a href="https://thestarsetsociety.cn/tss-chinese-debut-obis/">TSS中文首发:奥比斯:改变世界的视野 - TSS DEBUTS IN CHINESE:Orbis:Changing the way the world sees (2021.11)</a></li>
+        <li><a href="https://thestarsetsociety.cn/tss-chinese-launch-the-first/">TSS中文首发:美国首批合法毒品安全注射点“开业” - TSS DEBUTS IN CHINESE:First safe and legal injection sites in US ‘open’ (2021.11)</a></li>
+      </ul>
+    </div>
+  </div></li>
 </ul>
 
 ## 机器 - Machine
@@ -269,6 +345,12 @@ TSS将审视未来科技的作用及其对公众的影响——这些技术的�
       <td>页面优化</td>
       <td>优化了页面排版，便于日后更新修改</td>
     </tr>
+    <tr>
+      <td>2022/1/31</td>
+      <td>downplay水晶歌捧读者Bearler</td>
+      <td>内容更新</td>
+      <td>人类系列的文章完成搬运</td>
+    </tr>
   </table>
   <!--更新类型可以分为代码修复、内容更新和页面优化，不过只要人看得懂也可以随便写-->
   <!--备注可以用来描述更新的内容，不想描述可以打个“/”，也可以用来整活[？]-->
@@ -278,17 +360,17 @@ TSS将审视未来科技的作用及其对公众的影响——这些技术的�
   <summary>文章翻译与搬运进度查表</summary>
   <font color="red">页面编辑负责人应及时与TSS文章翻译工跟进文章的翻译进度，以及时更新文章列表；翻译工也可直接修改列表内容，但同时也应当修改查表内容以便日后核对进度。</font>
   <br/><b>人类</b>
-  <br/>文章搬运进度：至2020/5/3文章
-  <br/>翻译进度：最新文章往前至2020/1/3文章
+  <br/>文章搬运进度：搬运完成
+  <br/>翻译进度：最新文章往前至2020/1/3文章 + 最早文章往后至2018/6/29文章
   <br/><b>机器</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>翻译进度：最新文章往前至2019/12/4文章
+  <br/>翻译进度：最新文章往前至2019/12/4文章 + 最早文章往后至2018/6/6文章
   <br/><b>地球</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>翻译进度：最新文章往前至2020/1/4文章
+  <br/>翻译进度：最新文章往前至2020/1/4文章 + 最早文章往后至2018/5/29文章
   <br/><b>太空</b>
   <br/>已翻译文章搬运进度：[未开始]
-  <br/>翻译进度：最新文章往前至2019/12/4文章
+  <br/>翻译进度：最新文章往前至2019/12/4文章 + 最早文章往后至2018/6/8文章
   <br/><b>未来</b>
   <br/>文章搬运进度：[已完成]
   <br/>翻译进度：全部翻译完成
