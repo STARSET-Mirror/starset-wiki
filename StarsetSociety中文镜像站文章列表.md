@@ -2,7 +2,7 @@
 title: Starset Society 中文镜像站文章列表
 description: 这里列举整理了大部分来自TSS中文镜像站的文章，在此感谢所有负责翻译与搬运的成员。
 published: true
-date: 2022-01-28T03:13:59.845Z
+date: 2022-01-31T11:55:21.903Z
 tags: starsetsociety中文镜像站文章列表
 editor: markdown
 dateCreated: 2021-08-21T05:26:41.405Z
@@ -232,6 +232,9 @@ TSS将审视未来科技的作用及其对公众的影响——这些技术的�
 			  <li><a href="https://thestarsetsociety.cn/futures-breaking-the-light/">未来系列：打破光的障碍——时空波如何推动曲速器从虚构走向现实 - FUTURES: Breaking The Light Barrier – How space-time waves are propelling warp drives from fiction to fact (2021.8.13)</a></li>
 			  <li><a href="https://thestarsetsociety.cn/future-series-refrigeration/">未来系列：冷冻技术——重获新生 - FUTURES: Cryonics – Coming Back To Life (2021.8.17)</a></li>
 			  <li><a href="https://thestarsetsociety.cn/future-series-social/">未来系列：社交怪物与其制造者：重塑社交媒体，促进人类更好发展 - FUTURES – Social Monsters and their Makers: Reimagining social media to nudge our better angels (2021.8.24)</a></li>
+        <li><a href="https://thestarsetsociety.cn/future-series-space-travel/">未来系列:太空旅行将迎来新的曙光 - FUTURES – The New Dawn of Space Tourism (2021.9)</a></li>
+        <li><a href="https://thestarsetsociety.cn/future-series-artificial-2/">未来系列:人造子宫——新技术如何重新定义人类生殖 - FUTURES: Artificial Wombs – How new technology may be redefining human reproduction (2021.10)</a></li>
+        <li><a href="https://thestarsetsociety.cn/future-series-anti/">未来系列:反灭绝——一个雄心勃勃的计划 - FUTURES: De-Extinction – A Project of Mammoth Ambitions (2021.11)</a></li>
 			</ul>
 	  </div>
 	</div></li>
@@ -275,7 +278,7 @@ TSS将审视未来科技的作用及其对公众的影响——这些技术的�
   <summary>文章翻译与搬运进度查表</summary>
   <font color="red">页面编辑负责人应及时与TSS文章翻译工跟进文章的翻译进度，以及时更新文章列表；翻译工也可直接修改列表内容，但同时也应当修改查表内容以便日后核对进度。</font>
   <br/><b>人类</b>
-  <br/>文章搬运进度：至2019/6/3文章
+  <br/>文章搬运进度：至2020/5/3文章
   <br/>翻译进度：最新文章往前至2020/1/3文章
   <br/><b>机器</b>
   <br/>已翻译文章搬运进度：[未开始]
@@ -289,7 +292,7 @@ TSS将审视未来科技的作用及其对公众的影响——这些技术的�
   <br/><b>未来</b>
   <br/>文章搬运进度：[已完成]
   <br/>翻译进度：全部翻译完成
-  <br/><font size=2 color=grey>（最后核查日期：2021年10月23日）</font>
+  <br/><font size=2 color=grey>（最后核查日期：2022年1月31日）</font>
 </details>
 
 <details>
