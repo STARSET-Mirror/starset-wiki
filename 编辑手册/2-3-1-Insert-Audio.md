@@ -2,7 +2,7 @@
 title: 2.3.1 插入音频
 description: 
 published: true
-date: 2022-02-02T14:20:05.323Z
+date: 2022-02-02T14:21:21.966Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-02T13:28:22.671Z
@@ -18,7 +18,8 @@ dateCreated: 2022-02-02T13:28:22.671Z
 2. 单击“生成外链播放器”，复制下方的HTML代码（可预先选择样式、调整宽度、高度、是否自动播放）
 ![配置播放器选项](https://imgs.thestarsetsociety.cn/2022/02/02/d8e4f11c8f3f8.png)
 3. 将代码直接粘贴到你要编辑的页面里
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=135098711&auto=0&height=430"></iframe><br/><br/>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=135098711&auto=0&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=135098711&auto=0&height=430"></iframe>
 注意：
 1. 一个页面只允许插入一个网易云外链播放器
 2. 这种播放器只能播放非VIP歌曲，如果要实现VIP歌曲和版权歌曲的播放，请参考方案二
