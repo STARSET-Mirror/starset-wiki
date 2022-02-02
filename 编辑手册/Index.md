@@ -2,7 +2,7 @@
 title: 目录
 description: 编辑手册内容导航
 published: true
-date: 2022-02-02T13:07:25.682Z
+date: 2022-02-02T14:40:16.465Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-02T13:05:27.117Z
@@ -19,6 +19,7 @@ dateCreated: 2022-02-02T13:05:27.117Z
 ## 2.1 页面布局
 ## 2.2 动态内容
 ## 2.3 音频视频
-- 2.3.1 插入音频
+- [2.3.1 *插入音频*](/zh/编辑手册/2-3-1-Insert-Audio)
 - 2.3.2 插入视频
+{.links-list}
 
