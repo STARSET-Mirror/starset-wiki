@@ -2,7 +2,7 @@
 title: 2.3.1 插入音频
 description: 
 published: true
-date: 2022-02-02T14:37:02.137Z
+date: 2022-02-02T14:37:30.507Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-02T13:28:22.671Z
@@ -77,6 +77,7 @@ Spotify、Amazon Music等国外平台均提供外嵌播放插件，如果您想�
   fixed="true">
 </meting-js>
 ```
+效果如左下角
 <meting-js
   name="THE BREACH"
   artist="STARSET"
