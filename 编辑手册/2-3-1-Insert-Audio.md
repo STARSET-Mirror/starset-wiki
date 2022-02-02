@@ -2,7 +2,7 @@
 title: 2.3.1 插入音频
 description: 
 published: true
-date: 2022-02-02T13:28:22.671Z
+date: 2022-02-02T13:29:08.469Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-02T13:28:22.671Z
@@ -19,6 +19,5 @@ dateCreated: 2022-02-02T13:28:22.671Z
 ![配置播放器选项](https://imgs.thestarsetsociety.cn/2022/02/02/d8e4f11c8f3f8.png)
 3. 将代码直接粘贴到你要编辑的页面里（三种播放器效果分别如下）
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=135098711&auto=1&height=430"></iframe>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=2&id=135098711&auto=1&height=430"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="//music.163.com/outchain/player?type=1&id=135098711&auto=1&height=90"></iframe>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=1&id=135098711&auto=1&height=32"></iframe>
