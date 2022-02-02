@@ -2,13 +2,14 @@
 title: 2.3.1 插入音频
 description: 
 published: true
-date: 2022-02-02T14:21:34.765Z
+date: 2022-02-02T14:37:02.137Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-02T13:28:22.671Z
 ---
 
-> 目前只有**Markdown编辑器**和**HTML编辑器**支持插入音频。如果你使用可视化编辑器，请先转换为这两个格式中的一个。
+> 1.目前只有**Markdown编辑器**和**HTML编辑器**支持插入音频。如果你使用可视化编辑器，请先转换为这两个格式中的一个。
+> 2.目前播放组件无法实时预览，请保存后再回到查看页面处查看。
 {.is-warning}
 
 # 方案一：直接使用音乐平台提供的外链播放器
@@ -18,11 +19,13 @@ dateCreated: 2022-02-02T13:28:22.671Z
 2. 单击“生成外链播放器”，复制下方的HTML代码（可预先选择样式、调整宽度、高度、是否自动播放）
 ![配置播放器选项](https://imgs.thestarsetsociety.cn/2022/02/02/d8e4f11c8f3f8.png)
 3. 将代码直接粘贴到你要编辑的页面里
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=135098711&auto=0&height=430"></iframe><br><br>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=135098711&auto=0&height=430"></iframe>
-注意：
-1. 一个页面只允许插入一个网易云外链播放器
-2. 这种播放器只能播放非VIP歌曲，如果要实现VIP歌曲和版权歌曲的播放，请参考方案二
+
+> 注意：
+> 1.一个页面只允许插入一个网易云外链播放器
+> 2.这种播放器只能播放非VIP歌曲，如果要实现VIP歌曲和版权歌曲的播放，请参考方案二
+{.is-warning}
+
 
 ## 国外音乐平台
 Spotify、Amazon Music等国外平台均提供外嵌播放插件，如果您想使用它们的播放组件，只需在“分享”之类的地方查找是否有相关功能即可，使用方法与网易云音乐类似。由于本文档是中文文档，主要面向中国用户，故不展开。
@@ -99,3 +102,17 @@ Spotify、Amazon Music等国外平台均提供外嵌播放插件，如果您想�
 > 由于和Wiki页面样式的冲突，目前只有通过上述格式引入的播放器才能正常加载。
 {.is-danger}
 
+> 采用最简配置，目前只能配置一首歌曲
+{.is-warning}
+
+## 自定义配置
+自定义配置配置起来的播放器配置起来比较麻烦，但允许你自定义更多设置。
+
+1. [右键单击此处-另存为 下载模板文件](/amptemplate.html)（如果浏览器直接打开了这个文件，请按<kbd>Ctrl</kbd>+<kbd>S</kbd>保存为文件）
+2. 打开模板文件，参照说明进行编辑
+3. 编辑好后，将模板发给CDN上传
+4. 上传后，复制下面的代码，用得到的链接替换“你得到的网址”即可粘贴使用。（你可能需要调整宽度参数width和高度参数height）
+
+```html
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//你得到的网址"></iframe>
+```
