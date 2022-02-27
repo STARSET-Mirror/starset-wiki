@@ -2,7 +2,7 @@
 title: Starset世界观整理
 description: 快来康！！
 published: true
-date: 2021-12-12T07:12:37.734Z
+date: 2022-02-27T05:27:20.081Z
 tags: 世界观
 editor: markdown
 dateCreated: 2021-08-21T10:51:25.607Z
@@ -175,6 +175,9 @@ Brain-Machine Interface，即脑机接口。
 亮白光：一般状态
 <font color=#FF0000>亮红光：被supplicated</font>
 <font color=#87CEEB>亮蓝光：此人陷入回忆等BMI所创造的虚拟现实中</font>
+
+2021-9-27, 四专HORIZONS先行曲Leaving This World Behind的MV发布，在视频的开头，我们发现了BMI的全新颜色：黄色
+目前并不清楚其发黄光表示何种状态。
 
 2020年，出现了第一位BMI测试者。
 [这段视频](https://www.bilibili.com/video/BV1bv411v7fH?share_source=copy_web)由Facebook用户Amber Smith于2020年7月27日发布在了她的社交网络上，并被Starset官方转发。Amber Smith表示，由于失眠，她当时正在和自己的夜猫子朋友进行视频通话，没想到这位朋友给她展示了这个。
