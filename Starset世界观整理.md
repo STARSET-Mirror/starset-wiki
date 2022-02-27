@@ -2,7 +2,7 @@
 title: Starset世界观整理
 description: 快来康！！
 published: true
-date: 2022-02-27T06:08:19.435Z
+date: 2022-02-27T06:17:40.589Z
 tags: 世界观
 editor: markdown
 dateCreated: 2021-08-21T10:51:25.607Z
@@ -539,7 +539,7 @@ That **"reality"** must be the Architecture.
 还有那个staring you的woman……仅仅是用来渲染气氛的吗……
 
 ---
-同样的，我也很想给Lara一个词条，但我实在想不出能写什么，但感觉又应该写一条毕竟人现在在管理……哦TSS已经被The Order搞没了啊。那没事了。
+同样的，我也很想给Lara一个词条，但我实在想不出能写什么，但感觉又应该写一条毕竟人现在在管理……哦TSS已经被The Order接管了啊。那没事了。
 诶我是不是忘记给TSS一个词条了。
 算了他们不需要。
 
