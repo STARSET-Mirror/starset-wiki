@@ -2,14 +2,17 @@
 title: 编辑计划
 description: 
 published: true
-date: 2022-09-09T20:57:21.099Z
+date: 2022-09-09T21:01:56.991Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-09T20:57:21.099Z
 ---
 
 # 编辑计划
-STARSET Wiki将努力从以下几个方面整理和建设相关内容
+STARSET Wiki将努力从以下几个方面整理和建设相关内容。
+> 
+{.is-warning}
+这项计划还在讨论阶段，将会不断更新，若要参与讨论，请直接在评论区评论或到[QQ交流群](https://shang.qq.com/wpa/qunwpa?idkey=54df8ffb39619553024762b0aee78f1a584980c6fc5d4d6caa92831055959c3c)参与讨论。
 
 # Tabs {.tabset}
 ## 传记版
