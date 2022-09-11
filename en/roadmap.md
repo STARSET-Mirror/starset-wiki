@@ -2,13 +2,12 @@
 title: Edit Roadmap
 description: 
 published: true
-date: 2022-09-11T18:27:33.641Z
+date: 2022-09-11T18:27:47.014Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T18:27:33.641Z
 ---
 
-# Edit Roadmap
 > The roadmap is still in active discussion. For discussion please [join our Discord Server](https://discord.gg/zhEqePWneb).
 {.is-warning}
 
