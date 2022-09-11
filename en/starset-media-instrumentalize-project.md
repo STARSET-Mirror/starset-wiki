@@ -2,7 +2,7 @@
 title: STARSET Media Instrumentalize Project
 description: 
 published: true
-date: 2022-09-11T20:25:52.169Z
+date: 2022-09-11T20:26:24.303Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T20:25:52.169Z
@@ -44,9 +44,11 @@ For higher sound quality, please contact us through the contact information in t
 - By commenting in this page.
 
 # Tracklist
-# Tabs {.tabset}
+
 > Links will be updated soon.
 {.is-info}
+
+# Tabs {.tabset}
 
 ## Singles
 | Name                                                   | Quality Level     | Link |
