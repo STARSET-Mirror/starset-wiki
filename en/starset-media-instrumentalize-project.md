@@ -2,7 +2,7 @@
 title: STARSET Media Instrumentalize Project
 description: 
 published: true
-date: 2022-09-11T20:26:24.303Z
+date: 2022-09-12T05:07:33.741Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T20:25:52.169Z
@@ -11,7 +11,7 @@ dateCreated: 2022-09-11T20:25:52.169Z
 This project aims at making / collecting high-quality accompaniment of STARSET-related songs. It's currently maintained by STARSET Mirror.
 
 # Agreements & Disclaimer
-Updated on `Sep 12th, 2022`
+Updated on `Sep 12th, 2022`, applied for unofficial accompaniments only.
 
 1. We do not hold copyrights of the accompaniment provided in this project, and we do not intend to violate copyright of these media. We'll delete these accompaniment upon receiving relative requests of the representatives of copyright owner of these accompaniments.
 2. You should only use the accompaniment for personal purposes. Using the accompaniment under this project for any profit-making activities are strictly prohibited.
