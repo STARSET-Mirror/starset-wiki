@@ -2,7 +2,7 @@
 title: 首页
 description: STARSET世界观的开放解读
 published: true
-date: 2022-09-13T15:12:47.630Z
+date: 2022-09-13T15:13:41.041Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-07T04:58:29.430Z
@@ -30,7 +30,7 @@ Press the ![language](/image/icon/language.png) button to switch to other langua
 
 ~~肃是严肃的肃 反是反贼的反~~
 
-[~~贝利亚·~~雷顿](https://space.bilibili.com/38319344)  ~~~S肃中央书记处书记~~~（肃反局总管）
+~~[贝利亚·雷顿](https://space.bilibili.com/38319344)~~  ~~S肃中央书记处书记~~（肃反局总管）
 
 镜组的每个人都是肃反委员会的一员
 
