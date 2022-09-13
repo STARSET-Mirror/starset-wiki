@@ -2,12 +2,13 @@
 title: 首页
 description: STARSET世界观的开放解读
 published: true
-date: 2022-09-13T15:11:32.159Z
+date: 2022-09-13T15:12:47.630Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-07T04:58:29.430Z
 ---
 
+Press the ![language](/image/icon/language.png) button to switch to other languages.
 # 欢迎来到STARSET Wiki！
 
 目前我们已经开始组织和建设相关内容。[**查看我们的编辑计划**](/zh/roadmap)
