@@ -2,7 +2,7 @@
 title: STARSET Media Instrumentalize Project
 description: 
 published: true
-date: 2022-09-13T07:37:23.408Z
+date: 2022-09-13T07:37:54.488Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T20:25:52.169Z
