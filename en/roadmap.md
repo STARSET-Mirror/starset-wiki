@@ -2,7 +2,7 @@
 title: Edit Roadmap
 description: 
 published: true
-date: 2022-09-13T08:42:30.369Z
+date: 2022-09-13T12:04:09.060Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T18:27:33.641Z
@@ -10,6 +10,11 @@ dateCreated: 2022-09-11T18:27:33.641Z
 
 > The roadmap is still in active discussion. For discussion please [join our Discord Server](https://discord.gg/zhEqePWneb).
 {.is-warning}
+
+# Contribute
+[Join our Discord Server](https://discord.gg/zhEqePWneb) to build this wiki together with us.
+
+You can also leave a comment and we will try to reach you via the email you provided during registration.
 
 # Contents
 
@@ -68,6 +73,24 @@ Entries will be created around these topics:
 ## FanGroups
 
 History of STARSET Mirror's activities will be migrated into STARSET Wiki. You can also create entries about yourself / your organizations as STARSET fans.
+
+# Localization
+## Primarily Supported Language
+`Chinese (Simplified)` is the primarily supported language of this wiki due to the linguistic background of our current edtorial board members.
+
+## Other Supported Language
+> We can only provide limited support for the languages listed in this section until a native speaker or people with similar language level join our editorial board.
+{.is-warning}
+
+The main work of the support of other language is to synchronize content with primary supported language.
+
+We currently support the following language(s) except ones that are primarily supported:
+- `English`
+
+We also plan to provide support for the following language(s):
+- `Chinese (Traditional)`
+
+
 
 # Appearance Customization & Integrations
 
