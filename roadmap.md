@@ -2,13 +2,13 @@
 title: 编辑计划
 description: 
 published: true
-date: 2022-09-09T21:03:06.097Z
+date: 2022-09-13T08:45:32.998Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-09T20:57:21.099Z
 ---
 
-# 编辑计划
+# 内容
 STARSET Wiki将努力从以下几个方面整理和建设相关内容。
 > 这项计划还在讨论阶段，将会不断更新，若要参与讨论，请直接在评论区评论或到[QQ交流群](https://shang.qq.com/wpa/qunwpa?idkey=54df8ffb39619553024762b0aee78f1a584980c6fc5d4d6caa92831055959c3c)参与讨论。
 {.is-warning}
@@ -67,3 +67,7 @@ STARSET Wiki将努力从以下几个方面整理和建设相关内容。
 ## 活动版
 
 SST Mirror和其它粉丝组织/个人的历史动态/相关活动将迁移到STARSET Wiki
+
+# 外观与系统修改
+> 运行此Wiki的系统即将推出新的大版本更新。现在进行修改将导致日后重新消耗精力去适配新版，所以这一部分的计划将被推迟至新版本上线后（预计2023年初）。
+{.is-info}
