@@ -2,7 +2,7 @@
 title: Edit Roadmap
 description: 
 published: true
-date: 2022-09-11T18:27:47.014Z
+date: 2022-09-13T08:42:30.369Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T18:27:33.641Z
@@ -10,6 +10,8 @@ dateCreated: 2022-09-11T18:27:33.641Z
 
 > The roadmap is still in active discussion. For discussion please [join our Discord Server](https://discord.gg/zhEqePWneb).
 {.is-warning}
+
+# Contents
 
 We will try to organize and build relevant content from the following aspects:
 
@@ -66,3 +68,10 @@ Entries will be created around these topics:
 ## FanGroups
 
 History of STARSET Mirror's activities will be migrated into STARSET Wiki. You can also create entries about yourself / your organizations as STARSET fans.
+
+# Appearance Customization & Integrations
+
+> The system behind this wiki is going to receive a mass update. Planning / Implementing customizations and integrations now may result in huge work to adapt to changes of the backend.
+{.is-info}
+
+To be discussed.
