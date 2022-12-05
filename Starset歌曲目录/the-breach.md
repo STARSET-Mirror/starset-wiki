@@ -2,7 +2,7 @@
 title: The Breach
 description: HORIZONS-The Breach
 published: false
-date: 2022-12-05T12:45:06.683Z
+date: 2022-12-05T13:00:48.633Z
 tags: 歌曲
 editor: markdown
 dateCreated: 2022-02-02T08:52:23.345Z
@@ -17,5 +17,10 @@ dateCreated: 2022-02-02T08:52:23.345Z
 
 ## 歌词
 <p>
-  
+  <center>
+    Follow me<br/>
+    Follow me now once more into the breach<br/>
+    Can't u ccccccccc<br/>
+    Can't u c that this is the way 2 destiny<br/>
+  </center>
 </p>
