@@ -2,7 +2,7 @@
 title: Starset歌曲目录
 description: 这里对Starset目前已发布的大部分歌曲进行整理，可在这里进行查询。
 published: true
-date: 2022-12-05T12:16:12.917Z
+date: 2022-12-05T12:18:15.194Z
 tags: 歌曲
 editor: markdown
 dateCreated: 2021-09-11T10:07:13.003Z
@@ -176,11 +176,13 @@ onmouseout="this.className='d_out1'"><a href="none"><font color="black">THIS END
 onmouseout="this.className='d_out2'"><a href="none"><font color="black">SYMBIOTIC</font></a></div></center>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out1'"><a href="none"><font color="black">DREAMCATCHER</font></a></div></center>
-<center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">TUNNELVISION</font></a></div></center>
+<center><div class="d_out2" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">TUNNELVISION</font></a></div></center>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out1'"><a href="none"><font color="black">INFECTED <font size="2">(Album Version)</font></font></a></div></center>
-<center><div class="d_out1" onmouseover="this.className='d_over'"
-onmouseout="this.className='d_out1'"><a href="none"><font color="black">SOMETHING WICKED</font></a></div></center>
+<center><div class="d_out2" onmouseover="this.className='d_over'"
+onmouseout="this.className='d_out2'"><a href="none"><font color="black">SOMETHING WICKED</font></a></div></center>
 
 - [回到索引](#list)
+
+## 单曲
