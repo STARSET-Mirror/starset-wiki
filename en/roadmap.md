@@ -2,7 +2,7 @@
 title: Edit Roadmap
 description: 
 published: true
-date: 2022-09-13T12:04:09.060Z
+date: 2023-02-08T05:27:30.495Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T18:27:33.641Z
@@ -67,7 +67,7 @@ Entries will be created around these topics:
 
 This section will be a collection about materials provided / maintained by STARSET or third-party individuals / organizations.
 Entries will be created around these topics:
-- Materials: will be organized according to material types, such as [STARSET Media Instrumentalize Project](/en/starset-media-instrumentalize-project)
+- Materials: will be organized according to material types, such as [STARSET Media Instrumentalize Project](/en/STARSET-Media-Instrumentalize-Project)
 - Re-creations：Collection of excellent / systematic recreations.
 
 ## FanGroups
