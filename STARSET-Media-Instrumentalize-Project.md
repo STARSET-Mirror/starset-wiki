@@ -2,7 +2,7 @@
 title: STARSET伴奏补完计划
 description: 制作&优化&收集STARSET高质量伴奏
 published: true
-date: 2023-02-08T03:38:13.742Z
+date: 2023-02-08T03:40:35.822Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-25T14:36:02.171Z
@@ -48,7 +48,7 @@ STARSET Mirror
 
 - **Official** ：该伴奏是官方提供的伴奏
 - **Official-** ：该伴奏是官方提供的伴奏，但未找到高音质版本（最高可用码率<320Kbps）
-- **Enhanced+** : 该伴奏经过增强优化和细节修复，或经过人工优化(自第二版(rev.2)开始，我们将不再区分Enhanced+和Enhanced）
+- ~~**Enhanced+** : 该伴奏经过增强优化和细节修复，或经过人工优化~~	自第二版(rev.2)开始，我们将不再区分Enhanced+和Enhanced
 - **Enhanced** ：该伴奏经过增强优化
 - **General** : 该伴奏仅经过初步消音
 - **N/A** ：无公开音源/纯音乐/未发布
@@ -64,10 +64,8 @@ STARSET Mirror
 - **修订与拓展**
   - **修订**：对效果相对不理想的Enhanced级伴奏，我们将在条件允许时更新到新版伴奏，更新后的伴奏在“伴奏质量等级”中会显示版本号，例如 `Enhanced - rev.2`
   - **拓展**
-    - 本计划将逐渐支持STARSET相关作品：MNQN（已完成）、Downplay等。
+    - 本计划将逐渐支持STARSET相关作品：~~MNQN~~（已完成）、Downplay等。
     - 本计划将尝试丰富其它相关素材（例如：分轨），方便创作者进行二次创作。
-
- 
 
 ### 联系我们
 
@@ -96,6 +94,7 @@ STARSET Mirror
 | WAKING UP (Champagne Drip Remix)                       | Enhanced - rev.2 |
 | Kashmir (Amazon Original)                              | Enhanced         |
 | Waiting On The Sky To Change (feat. Breaking Benjamin) | Enhanced         |
+{.dense}
 
 #### HORIZONS
 
@@ -117,6 +116,7 @@ STARSET Mirror
 | TUNNELVISION               | Official     |
 | INFECTED                   | Official     |
 | SOMETHING WICKED           | Official     |
+{.dense}
 
 #### DIVISIONS 
 
@@ -135,6 +135,7 @@ STARSET Mirror
 | WAKING UP                 | Official     |
 | OTHER WORLDS THAN THESE   | Enhanced     |
 | DIVING BELL               | Official     |
+{.dense}
 
 ####  Vessels 2.0
 
@@ -164,6 +165,7 @@ STARSET Mirror
 | Love You To Death                | Enhanced +       |
 | Telepathic (Not Your Dope Remix) | Enhanced +       |
 | Satellite (TRAILS Remix)         | Enhanced +       |
+{.dense}
 
 #### Transmissions (Deluxe Edition) 
 
@@ -189,6 +191,7 @@ STARSET Mirror
 | My Demons (Synchronice Remix)    | Enhanced               |
 | Let It Die (Maniac Agenda Remix) | Enhanced               |
 | Telescope (EmoTek Remix)         | Enhanced               |
+{.dense}
 
 \*由于年代久远，暂未找到高音质版本的Carnivore/It Has Begun/Down With The Fallen/Dark On Me官方伴奏，此处提供的这四首歌曲的伴奏音质为标清（128Kbps），若您有原版资源或更高清晰度的资源，请联系我们。
 
@@ -210,3 +213,4 @@ STARSET Mirror
 | Invincible               | Enhanced - rev.2 |
 | Terminal                 | Enhanced - rev.2 |
 | What Dreams May Come     | Enhanced - rev.2 |
+{.dense}
