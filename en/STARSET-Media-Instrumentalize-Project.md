@@ -2,7 +2,7 @@
 title: STARSET Media Instrumentalize Project
 description: 
 published: true
-date: 2023-02-08T05:39:27.908Z
+date: 2023-02-08T11:26:07.475Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T20:25:52.169Z
@@ -47,7 +47,7 @@ For higher sound quality, please contact us through the contact information in t
 You have to read and agree to abide the [Agreements & Disclaimer](#Agreements%20&%20Disclaimer) section before obtaining and using the instrumentals.
 
 1. You can stream the instrumentals in our [YouTube Channel](https://www.youtube.com/@starsetmirror)
-2. For locally streaming and creative purpose, get the file [here](https://files.starset.fans/SMIP) using password `2Ppdp`.
+2. For local playing and creative purpose, get the file [here](https://files.starset.fans/SMIP) using password `2Ppdp`.
 
 # Tracklist
 
