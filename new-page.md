@@ -9,7 +9,7 @@ dateCreated: 2023-02-03T08:48:47.095Z
 ---
 
 # Down With The Fallen
-![down_with_the_fallen.png](/down_with_the_fallen.png)
+![down_with_the_fallen.png](https://img.starset.fans/2023/02/10/63e5df41e0781.png)
 - 作词 Paul Trust/Dustin Bates
 - 作曲 Paul Trust/Dustin Bates/Josh Baker/Joe Rickard
 - 制作人 Rob Graves

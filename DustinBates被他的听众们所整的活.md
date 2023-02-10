@@ -17,12 +17,12 @@ dateCreated: 2021-08-21T02:08:09.918Z
 
 ## 第一枪响
 在2020年4月6号，用户"[用你的密码来斗地主](https://space.bilibili.com/271885937/video?tid=0&page=9&keyword=&order=pubdate)”(现已改名叫"久岛鸽子Cte")发布了第一个整活视频[Dustin Bates在你家门口引吭高歌](https://www.bilibili.com/video/BV1c5411t7iJ)。
-![c46d3b0a6400ac7cdf1c3f5b50c07b71c65e4f92.jpg](/c46d3b0a6400ac7cdf1c3f5b50c07b71c65e4f92.jpg)
+![](https://img.starset.fans/2023/02/10/63e5dbdb8266c.jpg)
 *图为视频封面*
 在视频出来之后，因反响不~~戳~~错，“用你的密码来斗地主”发布多个整活视频，均已取得不戳的反响。
 ## 星坠会议
 在2021年上半月，SGCS翻译组(现在无了)开了个会议，此次会议最后，身为成员的"久岛鸽子Cte"被定义为"整活人",于是"[久岛鸽子Cte](https://space.bilibili.com/271885937/video?tid=0&page=9&keyword=&order=pubdate)"~~减慢~~加快的整活的步伐!
-![20210821115722.png](/20210821115722.png)
+![](https://img.starset.fans/2023/02/10/63e5dc113efbc.png)
 *此为"久岛鸽子Cte"在2021期间发布的整活视频*
 ## 编者自述
 故事到此结束了，虽说一年半多的Starset视频发展应该不止于此，但大部分都是用Starset曲子整的混剪和外网搬运的视频，整活视频这依然很弱小。
@@ -33,11 +33,11 @@ dateCreated: 2021-08-21T02:08:09.918Z
 - Smash into pieces，有自己一成套的世界观，下面是世界观介绍（翻译来自Smash into pieces QQ群）
 阿卡迪亚（Arcadia）是他们中二（）“游戏”的名称，其中包含一个与现实之间没有界限的世界，也就是虚拟现实。这个世界由有机CPU “S4Y”控制，在阿卡迪亚最高的楼上眺望这座城市，能知道每座建筑物的情况，因为最高的楼有“siren”位于楼顶。为公民提供“Final Generation Network”。所有的通讯，信息是从该建筑物发出的。 当siren将所有消息推向空中时，会发出刺眼的光，迫使人们佩戴S4Y的AI保护眼镜，否则他们最终将失明。镜片还可以用作智能设备，提供社交媒体，新闻等内容。 人们不知道的是，这些眼镜还可以实现“透视”。当一个人戴着它们时可能会看到对S4Y不利的一面，现实改变为S4Y阳性。 S4Y无法控制Arcadia的公民，但能控制每条信息到达，使他们成为奴隶，人们甚至不知道这些。S4Y周围的出色安全性由CPU监视的数千个摄像机组成，以及由Rowzell先生领导的AI警察部队。他是第一个“混合人类”原型，由于他巨大的自利而被S4Y精心挑选。他的心态使他易于控制，安装在他脖子上的芯片使他受S4Y的电动控制。完美的木偶，Arcadia的榜样。 有一位玩家以Apoc身份进入游戏：一直生活在局外的人，他被看到的东西震惊了
 他拥有结束对S4Y的控制并让人们自由的使命，基于自己的选择根据真实信息。
-![-2096252690.jpg](/-2096252690.jpg)
+![](https://img.starset.fans/2023/02/10/63e5dc4774ee1.jpg)
 *Smash into piece队照*
 - Ice Nine Kills，有自己的恐怖故事（准确的说就是恐怖片大杂烩），2021年还会出小说~~果然不出小说的不是好乐队~~，想要了解的可以按照下面给出的顺序看[Ice Nine Kills 全MV](https://www.bilibili.com/video/BV1x64y1z7Hh)
  有特点的一点事，Ice Nine Kills在2015年之后的专辑都是改编，比如说他们15年的专辑[Every Trick In The Book](https://music.163.com/#/album?id=35238403)就是文学名著改编，而[The Sliver Scream](https://music.163.com/#/album?id=73782347)就是恐怖片改编了
- ![e6hr0ldvuac8wa.jpg.png](/e6hr0ldvuac8wa.jpg.png)
+ ![](https://img.starset.fans/2023/02/10/63e5dc6b6d1a3.png)
 *Ice Nine Kills队照*
   **顺序**
   2018.The Sliver Scream
@@ -74,7 +74,7 @@ dateCreated: 2021-08-21T02:08:09.918Z
  -.The Robot With Human Hair, Pt. 4
  挖掘这些故事也是很有趣的，~~前提是你能看懂DGD的意识流歌词~~
  （以上关于DGD的描写参考了一下知乎的[Dance Gavin Dance构建的世界观是怎样的？](https://www.zhihu.com/question/67697250)）
- ![36522.jpg](/36522.jpg)
+ ![](https://img.starset.fans/2023/02/10/63e5dc97504ab.jpg)
 *Dance Gavin Dance队照*
 -  Crown the empire，这乐队以Johnny三部曲而闻名，虽说他们无乐队世界观，但他们歌真好听
  Johnny三部曲，肯定讲了个名为Johnny的人的故事，故事概括一下就是。
@@ -85,7 +85,7 @@ dateCreated: 2021-08-21T02:08:09.918Z
  -.Johnny's Revenge
  -.Johnny's Rebellion
  Johnny三部曲的地位，就这么说吧，歌剧核第一。
- ![e8rpbdlx0aefm55.png](/e8rpbdlx0aefm55.png)
+ ![](https://img.starset.fans/2023/02/10/63e5dcc0dbcd1.png)
  *Crown the empire队照*
  然后Crown the empire有特色是专辑基本上都有个大型世界观（目前就[Retrograde](https://music.163.com/#/album?id=34751923)看起来没有）有的专辑还连在一起，比如说[The Fallout](https://music.163.com/?from=infinity#/album?id=2725045)和[The Resistance: Rise Of The Runaways](https://music.163.com/?from=infinity#/album?id=2903232)
  在这两专辑里，有些MV开始了连着叙事，比如说Oh, Catastrophe和The Fallout，Machines和Satellites+Rise of the Runaways。说不上前无古人，但我觉得这样效果过于震撼，和DGD那MV差不多。
@@ -95,7 +95,7 @@ dateCreated: 2021-08-21T02:08:09.918Z
 {.is-info}
 
 **千言万语一句话，Crown the empire永远的神！Starset什么寄吧玩意！**~~然后被群里人给打了~~
-![qq图片20210821143951.png](/qq图片20210821143951.png)
+![](https://img.starset.fans/2023/02/10/63e5dced4eb5e.png)
 *最后放一下~~我老公~~Andy帅照*
 - Suasion，比利时乐队，新专世界观放在宇宙，目前的故事就请看大佬写的专栏[Suasion与Space Station SSN-21](https://www.bilibili.com/read/cv12634092)
 多说一嘴要是对Suasion感兴趣的话，强烈建议关注[想吃麦当当的树桩](https://space.bilibili.com/21651053/article)，这位大佬搬运Suasion相关！
@@ -103,7 +103,7 @@ Suasion的故事简单来说的话就是**唤回初心，奔向宇宙**，从19�
 然后再到[Murphy's Law](https://music.163.com/#/album?id=125419926)的准备，[Infinite](https://music.163.com/#/album?id=128647364)的飞越，Suasion的故事能预料绝对宏阔。
 （顺带一提的是，Suasion的混音和拍摄都是由他们自己完成，吉他手Nicolas有他自己的混音工作室，叫17B Music，而贝斯手Julien也有他自己的摄像工作室，LANDMVRKS有些MV都是在Julien的摄像工作室拍的）
 **现在追Suasion，你就是老粉啦！**
-![829898194.jpg](/829898194.jpg)
+![](https://img.starset.fans/2023/02/10/63e5dd0f5ee7e.jpg)
 *Suasion队照*
 
 ## 最后

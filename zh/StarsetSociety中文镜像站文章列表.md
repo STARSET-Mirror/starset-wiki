@@ -16,7 +16,7 @@ dateCreated: 2021-08-21T05:26:41.405Z
 ∥TSS官网：http://thestarsetsociety.org/{.is-info}
 
 ## Starset Society的使命 - Starset Society Mission
-![logo_centered.jpg](/logo_centered.jpg)
+![logo_centered.jpg](https://img.starset.fans/2023/02/10/63e5e02c04701.jpg)
 <font color=skyblue>"The Starset Society is always accepting new members to assist us in our mission."
 “Starset Soceity欢迎任何新成员加入和帮助我们完成这项使命。”</font>
 
@@ -25,7 +25,7 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 
 网址：https://thestarsetsociety.cn/starset-society-mission/
 ## 人类 - Man
-![human_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/Man-2-1-scaled-e1630746017354.jpg)
+![human_logo.jpg](https://img.starset.fans/2023/02/10/63e5e06dcb441.webp)
 <font color=orange>Science and Technology are the new drivers in human evolution and survival.
 科技是人类进化和生存的新动力。</font>
 
@@ -266,7 +266,7 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 </ul>
 
 ## 机器 - Machine
-![machine_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/Machine-2-1-scaled-e1630746444668.jpg)
+![machine_logo.jpg](https://img.starset.fans/2023/02/10/63e5e08c0a6df.webp)
 <font color=violet>The machine promises to drastically increase our output while reducing our workload — but will it replace us all together? Or even destroy us?
 机器必然会大幅度增加我们的产量，又同时减少我们的工作量；但它们会取代人类吗？更进一步，它们会毁灭我们吗？</font>
 
@@ -276,7 +276,7 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
 
 ## 太空 - Space
-![space_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/Space-2-1-scaled-e1630746398632.jpg)
+![space_logo.jpg](https://img.starset.fans/2023/02/10/63e5e0a673af2.webp)
 <font color="grey">The final frontier—and the only true option for redundancy in the survival of a fragile human species.
 最后的研究方向——也是脆弱的人类要长久生存唯一有效的选择。</font>
 
@@ -287,7 +287,7 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 
 
 ## 未来 - Future
-![future_logo.jpg](https://scdn.thestarsetsociety.cn/wp-content/uploads/2021/09/futuristic-4544119_960_720-1-e1630746798464.jpg)
+![future_logo.jpg](https://img.starset.fans/2023/02/10/63e5e0a8a31b2.webp)
 <font color="blue">The Starset Society examines the near-future implications of technology and its theoretical impact on the public. TSS will examine the current state of these rapidly developing technologies and ponder the FUTURES that may unfold as a result.
 TSS将审视未来科技的作用及其对公众的影响——这些技术的现状以及它们可能带来的未来。</font>
 
