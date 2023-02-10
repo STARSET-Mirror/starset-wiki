@@ -1,17 +1,16 @@
 # STARSET Wiki
 
-[English](/en/README.md) | [正體中文](/zh-tw/README.md)
+[English](/en/README.md) | [简体中文](/zh-cn/README.md)
 
-STARSET世界观的开放解读。由[STARSET Mirror](https://forum.starsetonline.cn/d/18-starset-mirrorstarset)维护。
-原创内容在内容在知识共享署名-非商业性-无衍生许可下提供。
+STARSET世界觀的開放解讀。 由[STARSET Mirror](https://forum.starsetonline.cn/d/18-starset-mirrorstarset)維護。 原創內容在內容在知識共享署名-非商業性-無衍生許可下提供。
 
-## 参与编辑
-- **方式一（推荐）**：在 https://starset.wiki 上注册账号，通过wiki上的联系方式向STARSET Mirror申请编辑权限并开始编辑。
-- **方式二**：Fork[本内容仓库](https://git.thestarsetsociety.cn/STARSET_Mirror/starset-wiki-contents)，编辑您的fork，然后向本仓库发起合并请求（Pull request）。（需要在TSS Git注册一个账号）
+## 參與編輯
+- **方法一（建議）**：在 https://starset.wiki 上註冊帳號，通過wiki上的聯繫方式向STARSET Mirror申請編輯許可權並開始編輯。
+- **方法二**：Fork[本內容倉庫](https://git.thestarsetsociety.cn/STARSET_Mirror/starset-wiki-contents)，編輯您的fork，然後向本倉庫發起合併請求（Pull request）。 （需要在TSS Git注册一個帳號）
 
-若要申请开通新的语言分支，请通过wiki上的联系方式联系STARSET_Mirror或在本仓库创建工单（Issue）。
+若要申請開通新的語言分支，請通過wiki上的聯繫方式聯系STARSET_ Mirror或在本倉庫創建工單（Issue）。
 
-## 编委会
+## 編委會
 
 <table>
   <tbody>
