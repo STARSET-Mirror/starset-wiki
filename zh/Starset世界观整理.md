@@ -117,7 +117,7 @@ Gregor从来没跟我们说过这四个词的意思，所以我没法直接说�
 有些真相，一直以来被刻意藏匿于我们视线之外，被紧锁于黑暗，被用来控制我们自身。但，徒劳地停留在黑暗中并不是一个选项，这么做只会自取灭亡。我们必须夺回真相，哪怕真相极其危险。
 事实上，现在拿着这本书的你都可能置身于险境中了，但无畏地牺牲永远比苟且偷生强。
 
-![IMG_6579.jpg](https://imgs.thestarsetsociety.cn/2021/08/22/ab5285a445e0d.jpg)
+![IMG_6579.jpg](https://img.starset.fans/2021/08/22/ab5285a445e0d.jpg)
 
 [回到开头](#main)
 
@@ -220,8 +220,8 @@ BMI变红，或者说“被supplicated“的人会看到一个特殊的场景，
 <details>
 <summary>单击这里来看漫画里的Aston——</summary>
   
- ![IMG_1377.JPG](https://imgs.thestarsetsociety.cn/2021/08/22/c610d48256e93.JPG)
-  ![IMG_4814.JPG](https://imgs.thestarsetsociety.cn/2021/08/22/1b1bd3f187e9c.JPG)
+ ![IMG_1377.JPG](https://img.starset.fans/2021/08/22/c610d48256e93.JPG)
+  ![IMG_4814.JPG](https://img.starset.fans/2021/08/22/1b1bd3f187e9c.JPG)
 </details>
 
 
@@ -247,8 +247,8 @@ SETI研究员/失恋失业天文学教授
 <details>
 <summary>单击这里来看漫画里的Stephen——</summary>
   
-![IMG_1383.JPG](https://imgs.thestarsetsociety.cn/2021/08/22/ee5a61c526f85.JPG)
-  ![IMG_1380.JPG](https://imgs.thestarsetsociety.cn/2021/08/22/b41c2295b1e0d.JPG)
+![IMG_1383.JPG](https://img.starset.fans/2021/08/22/ee5a61c526f85.JPG)
+  ![IMG_1380.JPG](https://img.starset.fans/2021/08/22/b41c2295b1e0d.JPG)
 </details>
 
 2013年元旦，Stephen醒过来时发现自己失去了一个多月的记忆。后来他在各种提示下拿到Gregor的信，并根据信中指示收到了一封来自未来的传输。
@@ -491,7 +491,7 @@ RESIDENTS WERE TO ABIDE BY THE RULES OF THE NEW WEST, WHICH WERE NEVER PUBLISHED
 
 ## 时间线总览
 注：时间线2会根据后续更新做出对应修改
-![IMG_6731.jpg](https://imgs.thestarsetsociety.cn/2021/08/25/f4e9136e35209.jpg)
+![IMG_6731.jpg](https://img.starset.fans/2021/08/25/f4e9136e35209.jpg)
 ![avatar][base64str]
 
 # 写在最后

@@ -13,7 +13,7 @@ dateCreated: 2022-02-02T08:52:23.345Z
 <p>
   <b>THE BREACH</b>是四专HORIZONS的第一首歌，同时也拥有一则mv。
 </p>
-<div align=center><img src="https://imgs.thestarsetsociety.cn/2022/12/05/638ddc5ea8285.jpg" alt="THE BREACH专辑图" title="thebreach.jpg" /></div>
+<div align=center><img src="https://img.starset.fans/2022/12/05/638ddc5ea8285.jpg" alt="THE BREACH专辑图" title="thebreach.jpg" /></div>
 
 ## 歌词
 <p>

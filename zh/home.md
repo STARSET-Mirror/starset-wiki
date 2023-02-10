@@ -34,4 +34,4 @@ Press the ![language](/image/icon/language.png) button to switch to other langua
 
 镜组的每个人都是肃反委员会的一员
 
-![](https://imgs.thestarsetsociety.cn/2021/08/24/89203d58b321e.jpg)
+![](https://img.starset.fans/2021/08/24/89203d58b321e.jpg)

@@ -271,7 +271,7 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 机器必然会大幅度增加我们的产量，又同时减少我们的工作量；但它们会取代人类吗？更进一步，它们会毁灭我们吗？</font>
 
 <br/>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
+  <div align=center><img src="https://img.starset.fans/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
 
@@ -281,7 +281,7 @@ Tips：文章按照在TSS中文镜像站标注的发布顺序<u>从晚到早</u>
 最后的研究方向——也是脆弱的人类要长久生存唯一有效的选择。</font>
 
 <br/>
-  <div align=center><img src="https://imgs.thestarsetsociety.cn/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
+  <div align=center><img src="https://img.starset.fans/2021/08/22/2408e40b40e87.jpg" width="235" height="247"></div>
   <div align=center><font color=grey>很抱歉，这部分内容是空白的或者仍需编辑，因此目前你无法查看
   <br/><s>在被达斯汀警官抓到前快逃去别的地方吧！</s></font></div>
 

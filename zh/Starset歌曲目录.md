@@ -27,7 +27,7 @@ dateCreated: 2021-09-11T10:07:13.003Z
 - [其它单曲](#else)
 
 ## <div id="trans">Transmissions (2014.7.8)</div>
-<div align=center><img src="https://imgs.thestarsetsociety.cn/2022/01/28/64b63177fbd1f.jpg" alt="transmissions.jpg" title="transmissions.jpg" /></div>
+<div align=center><img src="https://img.starset.fans/2022/01/28/64b63177fbd1f.jpg" alt="transmissions.jpg" title="transmissions.jpg" /></div>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out1'"><a href="none"><font color="black">First Light</font></a></div></center>
 <center><div class="d_out2" onmouseover="this.className='d_over'"
@@ -58,7 +58,7 @@ onmouseout="this.className='d_out1'"><a href="none"><font color="black">Rise And
 - [回到索引](#list)
 
 ## <div id="vss">Vessels (2017.1.20)</div>
-<div align=center><img src="https://imgs.thestarsetsociety.cn/2022/01/28/535f8575d9260.jpg" alt="vessels.jpg" title="vessels.jpg" /></div>
+<div align=center><img src="https://img.starset.fans/2022/01/28/535f8575d9260.jpg" alt="vessels.jpg" title="vessels.jpg" /></div>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out1'"><a href="none"><font color="black">The Order</font></a></div></center>
 <center><div class="d_out2" onmouseover="this.className='d_over'"
@@ -93,7 +93,7 @@ onmouseout="this.className='d_out1'"><a href="none"><font color="black">Everglow
 - [回到索引](#list)
 
 ## <div id="vss2">Vessels 2.0 (2018.9.28)</div>
-<div align=center><img src="https://imgs.thestarsetsociety.cn/2022/01/28/e4a731e21d61d.jpg" alt="vessels2.0.jpg" title="vessels2.0.jpg" />
+<div align=center><img src="https://img.starset.fans/2022/01/28/e4a731e21d61d.jpg" alt="vessels2.0.jpg" title="vessels2.0.jpg" />
 <br/>注：Vessels 2.0的前十五首歌曲这里暂不列出，见Vessels
 <br/>他人remix的歌曲暂时不会创建介绍页面</div>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
@@ -118,7 +118,7 @@ onmouseout="this.className='d_out1'"><font color="black">Satellite (TRAILS Remix
 - [回到索引](#list)
 
 ## <div id="divs">DIVISIONS (2019.9.13)</div>
-<div align=center><img src="https://imgs.thestarsetsociety.cn/2022/01/28/94a9603836eb2.jpg" alt="divisions.jpg" title="divisions.jpg" /></div>
+<div align=center><img src="https://img.starset.fans/2022/01/28/94a9603836eb2.jpg" alt="divisions.jpg" title="divisions.jpg" /></div>
 <center><div class="d_out1" onmouseover="this.className='d_over'"
 onmouseout="this.className='d_out1'"><a href="none"><font color="black">A BRIEF HISTORY OF THE FUTURE</font></a></div></center>
 <center><div class="d_out2" onmouseover="this.className='d_over'"
