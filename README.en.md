@@ -1,17 +1,17 @@
 # STARSET Wiki
 
-[简体中文](/en/README.md) | [正體中文](/zh-tw/README.md)
+[简体中文](/README.md) | [正體中文](/README.zh-TW.md)
 
-STARSET Wiki is an open interpretation of STARSET's world view, maintained by [STARSET Mirror](https://forum.starsetonline.cn/d/18-starset-mirrorstarset).
+STARSET Wiki is an open interpretation of STARSET's world view, maintained by [STARSET Mirror](https://mirror.starset.fans).
 
 All original content on this wiki is available under a Creative Commons Attribution-NonCommercial-NoDerivative license.
 
 ## Contributing
 You coudl contribute to this wiki by either:
 - Registering an account on https://starset.wiki ，and requesting editorial access from STARSET Mirror via the contact information showed on the wiki.
-- Creating a fork of [this repo](https://git.thestarsetsociety.cn/STARSET_Mirror/starset-wiki-contents)，editing your fork，and sending a pull request to this repo. (An account in this git instance is required to submit the pull request).
+- Creating a fork of [this repo](https://git.owu.one/starset-mirror/starset-wiki)，editing your fork，and sending a pull request to this repo. (An account in this git instance is required to submit the pull request).
 
-To open a new language, please contact STARSET_Mirror via the contact information showed on the wiki or create an issue in this repo.
+To open a new language, please contact STARSET_Mirror via the contact information showed on the [Wiki](https://starset.wiki) or create an issue in this repo.
 
 ## Editorial Board
 
