@@ -2,7 +2,7 @@
 title: Edit Roadmap
 description: 
 published: true
-date: 2023-02-08T05:27:30.495Z
+date: 2023-04-12T14:18:46.153Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T18:27:33.641Z
@@ -72,7 +72,7 @@ Entries will be created around these topics:
 
 ## FanGroups
 
-History of STARSET Mirror's activities will be migrated into STARSET Wiki. You can also create entries about yourself / your organizations as STARSET fans.
+Previous activities of SST Mirror and other fan organizations/individuals will be archived on the STARSET Wiki.
 
 # Localization
 ## Primarily Supported Language
@@ -86,11 +86,7 @@ The main work of the support of other language is to synchronize content with pr
 
 We currently support the following language(s) except ones that are primarily supported:
 - `English`
-
-We also plan to provide support for the following language(s):
 - `Chinese (Traditional)`
-
-
 
 # Appearance Customization & Integrations
 
