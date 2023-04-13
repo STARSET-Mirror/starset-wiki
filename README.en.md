@@ -1,6 +1,6 @@
 # STARSET Wiki
 
-[简体中文](/README.md) | [正體中文](/README.zh-TW.md)
+[简体中文](README.md) | [正體中文](README.zh-TW.md)
 
 STARSET Wiki is an open interpretation of STARSET's world view, maintained by [STARSET Mirror](https://mirror.starset.fans).
 

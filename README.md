@@ -1,6 +1,6 @@
 # STARSET Wiki
 
-[English](/README.en.md) | [正體中文](/README.zh-TW.md)
+[English](README.en.md) | [正體中文](README.zh-TW.md)
 
 STARSET世界观的开放解读。由[STARSET Mirror](https://mirror.starset.fans)维护。
 原创内容在内容在知识共享署名-非商业性-无衍生许可下提供。
