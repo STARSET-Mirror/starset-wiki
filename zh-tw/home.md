@@ -2,11 +2,13 @@
 title: 首頁
 description: STARSET世界觀的開放解讀
 published: true
-date: 2023-04-12T14:19:00.901Z
+date: 2023-04-13T11:29:33.771Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-13T12:13:03.492Z
 ---
+
+Press the language button <kbd><i class="mdi mdi-earth"></i></kbd> to switch to other languages.{.caption}
 
 # 歡迎來到STARSET Wiki！
 
