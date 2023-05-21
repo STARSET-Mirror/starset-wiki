@@ -2,7 +2,7 @@
 title: Home
 description: An open interpretation of STARSET's world view
 published: true
-date: 2023-05-21T16:28:58.341Z
+date: 2023-05-21T16:30:11.255Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-07T04:29:52.508Z
@@ -25,10 +25,7 @@ Join our [Discord Server](https://discord.gg/zhEqePWneb) to build this wiki with
 # Tabs {.tabset}
 
 ## English
-> **Currently there are no native English speakers in the editorial team**. Contibuting as a native English speaker can make the English edition of our wiki reads more smoothly.
-{.is-warning}
-
-- CDN
+- CDN ~(Non-native)~
 - Devin Munich
 
 ## Chinese (Simplified)
@@ -40,4 +37,4 @@ Join our [Discord Server](https://discord.gg/zhEqePWneb) to build this wiki with
 - TheExile雷顿
 
 ## Chinese (Traditional)
-- CDN
+- CDN ~(Non-native)~
