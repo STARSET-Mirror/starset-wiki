@@ -2,7 +2,7 @@
 title: 首页
 description: STARSET世界观的开放解读
 published: true
-date: 2023-02-12T08:34:31.541Z
+date: 2023-05-22T11:01:28.935Z
 tags: 
 editor: markdown
 dateCreated: 2021-04-07T04:58:29.430Z
@@ -35,6 +35,10 @@ Press the language button <kbd><i class="mdi mdi-earth"></i></kbd> to switch to 
     </tr>
   </tbody>
 </table>
+
+### 外文编委
+
+- Devin Munich ~English~
 
 ### STARSET 肃反委员会
 
