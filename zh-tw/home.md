@@ -2,7 +2,7 @@
 title: 首頁
 description: STARSET世界觀的開放解讀
 published: true
-date: 2023-04-13T11:29:33.771Z
+date: 2023-05-22T11:04:07.865Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-13T12:13:03.492Z
@@ -36,7 +36,5 @@ Press the language button <kbd><i class="mdi mdi-earth"></i></kbd> to switch to 
 - TheExile雷顿
 
 ## English
-> **現時編委會中暫無以英語為母語的成員。** 如果您以英語為母語，那麼您的貢獻可以使我們的英文版讀起來更加流暢。
-{.is-warning}
-
-- CDN
+- CDN ~非母語使用者~
+- Devin Munich
