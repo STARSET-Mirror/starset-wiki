@@ -2,7 +2,7 @@
 title: Starset世界观整理
 description: 快来康！！
 published: true
-date: 2023-11-19T03:35:39.698Z
+date: 2023-11-19T03:37:29.543Z
 tags: 世界观
 editor: markdown
 dateCreated: 2021-08-21T10:51:25.607Z
@@ -490,55 +490,11 @@ RESIDENTS WERE TO ABIDE BY THE RULES OF THE NEW WEST, WHICH WERE NEVER PUBLISHED
 >**新东部的系统只会比预期更加深度整合。**
 
 ## 时间线总览
-注：时间线2会根据后续更新做出对应修改
+注：时间线2被我弃了
 ![IMG_6731.jpg](https://img.starset.fans/2021/08/25/f4e9136e35209.jpg)
 
-# 写在最后
-本质上是azk的碎碎念。这里会放一些sst想法及相关（看上去大概会很乱）
-
----
-一直都能在各种采访里（尤其是早期的一些采访）读到Dustin说他受到卡尔萨根的影响很深。这一点其实还挺明显的，比如TSS使命里引用了几段卡尔萨根的话，In to the Unknown里也采样了卡尔萨根读的Pale Blue Dot片段。
-然后就是，我最近也迷上了这个叫卡尔萨根的家伙……于是我就去看了《超时空接触》——这部电影改编自他的小说——不得不承认，我在看的时候一直产生特别强烈的Transmissions flash back（捂脸笑哭）
-另外昨天看The Sagan Series，每个视频最后都写着一句Spread the Message……（这该死的巧合）所以TSS你们真正要spread的message难道是……
-最后，我永远喜欢卡尔萨根，就这样，我说完了。
-
----
-TSS阴谋论有没有人搞啊（这玩意还怪好玩的虽然很无厘头……）
-其实主要是因为看完The PROX Transmissions之后发现达斯汀挖了好多坑都没填……之后我在猜测他可能会怎么填这些坑的时候想到了一些非常合理的阴谋论（？
-要是联系上Aston Wise is the Architect这句话来想，那就更有意思了。
-首先得从小说最后一章Aston本人的自述讲起：他在被The Order清除记忆后在皮下发现了一个小硬盘，这是他最新的发明，里面存储了1MB的文件。据Aston所说，里面存储的文档就是我们刚刚读完的The PROX Transmissions，只不过他对大部分人名地名做出了修改。
-但这一点很不合理啊，你想，既然The Order那帮人拿BMI过了一遍他的记忆，而且确实夺走了他的全部知识产权（或之类的东西），他们怎么会忽略Aston把这个硬盘植入到自己皮下的这一段？
-姑且认定The Order确实忽略了这一点，那为什么这个硬盘里居然会有第三人称的，从Stephen在厕所醒来到Aston在手术台上昏迷这整段故事的**文字记述**？里面甚至还有一些Aston不可能会知道的Stignum的一些秘密见面！
-这样的话，那便只会有两种解释了：1.整个故事都是Aston杜撰的 2.这是The Order希望Aston去相信的，但不一定是真实的。
 
 
----
-我当然知道sst的故事是虚构的……但这并不妨碍我瞎想嘛
-要是我说The PROX Transmissions的作者是达斯汀那该多没意思啊对不对……
 
----
-**Some reality got ahold of me and I don't think I'll escape.**（WAKING UP)
-That **"reality"** must be the Architecture.
 
----
-"The Starset Society is actually evil"的这种猜测不止我一个人有，哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈那没事了
-
----
-我又开始痴迷sst lore了……
-[Ricochet那个全景MV](https://www.bilibili.com/video/BV1Nt4y1C77g?share_source=copy_web)里的人是不是Aston和Lara啊……
-
----
-再者关于New East这种世界霸权……我不知道是不是有现实参照物嗷，但我希望没有。再联系上三专intro里的中文，很难让人不联想到西方对我国的……
-达斯汀你清醒一点嗷。
-不过要是他打算两边一块骂……那随他。
-
----
-我不知道EyeZ该怎么讲或者放到哪个归类里。
-它似乎和主线完全没关系，但又不可能没关系。从sst油管官号被黑时的那个奇怪直播里完全看不出什么东西来。有的时候我甚至怀疑这是他们测试失败的废弃设定……
-还有那个staring you的woman……仅仅是用来渲染气氛的吗……
-
----
-同样的，我也很想给Lara一个词条，但我实在想不出能写什么，但感觉又应该写一条毕竟人现在在管理……哦TSS已经被The Order接管了啊。那没事了。
-诶我是不是忘记给TSS一个词条了。
-算了他们不需要。
 
